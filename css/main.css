@@ -10936,21 +10936,6 @@ body.static .content-wrapper {
     }
 }
 
-@media (min-width: 721px) and (max-width: 1024px) {
-    body {
-        font-size: 15px
-    }
-    body.ru {
-        font-size: 13px
-    }
-    body.static {
-        font-size: 16px
-    }
-    body.static.ru {
-        font-size: 14px
-    }
-}
-
 @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) and (-webkit-min-device-pixel-ratio: 1) {
     .content-wrapper,
     .section {
@@ -11184,7 +11169,7 @@ nav.main li.home .secondary li .trainer-card-stamps-all a.arrow-right:after,
 nav.main li.home .secondary li .aside-leaderboard-table .footer_link a:after,
 .aside-leaderboard-table .footer_link nav.main li.home .secondary li a:after,
 nav.main li.home .fill {
-    /*background-color: #919191*/
+    background-color: #919191
 }
 
 nav.main li.home .secondary li {
