@@ -1,0 +1,312 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+   <head>
+      <title>Simple</title>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+      <!-- CSS -->
+      <link rel="stylesheet" href="css/style.css" type="text/css" media="screen" />
+      <link rel="stylesheet" href="css/style2.css" type="text/css" media="screen" />
+      <link rel="stylesheet" href="css/main.css" type="text/css" media="screen" />
+      <!--[if IE 6]>
+      <link rel="stylesheet" type="text/css" media="screen" href="css/ie-hacks.css" />
+      <script type="text/javascript" src="js/DD_belatedPNG.js"></script>
+      <script>/* EXAMPLE */ DD_belatedPNG.fix('*');</script>
+      <![endif]-->
+      <!--[if IE 7]>
+      <link rel="stylesheet" href="css/ie7-hacks.css" type="text/css" media="screen" />
+      <![endif]-->
+      <!--[if IE 8]>
+      <link rel="stylesheet" href="css/ie8-hacks.css" type="text/css" media="screen" />
+      <![endif]-->
+      <!-- ENDS CSS -->
+      <!-- prettyPhoto -->
+      <link rel="stylesheet" href="js/prettyPhoto/css/prettyPhoto.css" type="text/css" media="screen" />
+      <!-- ENDS prettyPhoto -->
+      <!-- JS -->
+      <script type="text/javascript" src="js/jquery_1.4.2.js"></script>
+      <script type="text/javascript" src="js/jqueryui.js"></script>
+      <script type="text/javascript" src="js/easing.js"></script>
+      <script type="text/javascript" src="js/jquery.cycle.all.js"></script>
+      <script type="text/javascript" src="js/tooltip/jquery.tools.min.js"></script>
+      <script type="text/javascript" src="js/filterable.pack.js"></script>
+      <script type="text/javascript" src="js/prettyPhoto/js/jquery.prettyPhoto.js"></script>
+      <script type="text/javascript" src="js/jquery.tabs/jquery.tabs.pack.js"></script>
+      <script type="text/javascript" src="js/custom.js"></script>
+      <!-- ENDS JS -->
+      <!-- navBar -->
+      <script type="text/javascript" src="js/navBar/modernizr.custom.js"></script>
+      <!-- /navBar -->
+      <!-- Cufon -->
+      <script src="js/cufon-yui.js" type="text/javascript"></script>
+      <script src="js/fonts/bebas-neue_400.font.js" type="text/javascript"></script>
+      <!-- /Cufon -->
+      <!-- superfish -->
+      <link rel="stylesheet" type="text/css" media="screen" href="css/superfish-custom.css" />
+      <script type="text/javascript" src="js/superfish-1.4.8/js/hoverIntent.js"></script>
+      <script type="text/javascript" src="js/superfish-1.4.8/js/superfish.js"></script>
+      <!-- ENDS superfish -->
+      <!-- tabs -->
+      <link rel="stylesheet" href="css/jquery.tabs.css" type="text/css" media="print, projection, screen" />
+      <!-- Additional IE/Win specific style sheet (Conditional Comments) -->
+      <!--[if lte IE 7]>
+      <link rel="stylesheet" href="css/jquery.tabs-ie.css" type="text/css" media="projection, screen">
+      <![endif]-->
+      <!-- ENDS tabs -->
+   </head>
+   <body>
+      <!-- HEADER -->
+      <div id="home-header">
+         <div class="degree">
+            <!-- wrapper -->
+            <div class="wrapper">
+               <a href="index.html"><img src="images/logo.png" alt="" id="logo" /></a>
+               <!-- search -->
+               <div class="top-search">
+                  <form  method="get" id="searchform" action="#">
+                     <div>
+                        <input type="text" value="Search..." name="s" id="s" onfocus="defaultInput(this)" onblur="clearInput(this)" />
+                        <input type="submit" id="searchsubmit" value="" />
+                     </div>
+                  </form>
+               </div>
+               <!-- ENDS search -->
+               <!-- navigation -->
+               <div id="nav-holder">
+                  <nav class="main">
+                     <div class="blocker"></div>
+                     <div class="content-wrapper">
+                        <ul data-analytics-label="primary-nav" style="height: auto; overflow: visible;">
+                           <li class="home">
+                              <a href="https://www.pokemon.com/us/" target="_self" data-content-id="" data-content-type="Sidebar" data-content-variation="sidebarLeft" data-content-location="" data-content-category="" data-content-download="" class="active">
+                              <span class="fill"></span>
+                              <span class="icon_home">
+                              </span>
+                              <span class="title title_home">Home</span>
+                              </a>
+                           </li>
+                           <li class="explore">
+                              <a href="https://www.pokemon.com/us/pokedex/" target="_self" data-content-id="" data-content-type="Sidebar" data-content-variation="sidebarLeft" data-content-location="" data-content-category="" data-content-download="">
+                              <span class="fill"></span>
+                              <span class="icon_latest">
+                              </span>
+                              <span class="title title_pokeball">Latest</span>
+                              </a>
+                           </li>
+                           <li class="watch">
+                              <a href="https://www.pokemon.com/us/pokemon-episodes/" target="_self" data-content-id="" data-content-type="Sidebar" data-content-variation="sidebarLeft" data-content-location="" data-content-category="" data-content-download="">
+                              <span class="fill"></span>
+                              <span class="icon_forum">
+                              </span>
+                              <span class="title title_pokemontv">Forum</span>
+                              </a>
+                           </li>
+                           <li class="play">
+                              <a href="https://www.pokemon.com/us/pokemon-online-games/" target="_self" data-content-id="" data-content-type="Sidebar" data-content-variation="sidebarLeft" data-content-location="" data-content-category="" data-content-download="">
+                              <span class="fill"></span>
+                              <span class="icon_puzzle">
+                              </span>
+                              <span class="title title_joystick">Database</span>
+                              </a>
+                           </li>
+                           <li class="trade">
+                              <a href="https://www.pokemon.com/us/pokemon-tcg/" target="_self" data-content-id="" data-content-type="Sidebar" data-content-variation="sidebarLeft" data-content-location="" data-content-category="" data-content-download="">
+                              <span class="fill"></span>
+                              <span class="icon_strategy">
+                              </span>
+                              <span class="title title_cards">Strategies</span>
+                              </a>
+                              <a href="https://www.pokemon.com/us/#" class="subnav-toggle"><span class="icon"></span></a>
+                           </li>
+                           <li class="game">
+                              <a href="https://www.pokemon.com/us/pokemon-video-games/" target="_self" data-content-id="" data-content-type="Sidebar" data-content-variation="sidebarLeft" data-content-location="" data-content-category="" data-content-download="">
+                              <span class="fill"></span>
+                              <span class="icon_link">
+                              </span>
+                              <span class="title title_videogame">Duel Links</span>
+                              </a>
+                           </li>
+                           <li class="attend last-item">
+                              <a href="https://www.pokemon.com/us/play-pokemon/" target="_self" data-content-id="" data-content-type="Sidebar" data-content-variation="sidebarLeft" data-content-location="" data-content-category="" data-content-download="">
+                              <span class="fill"></span>
+                              <span class="icon_bio">
+                              </span>
+                              <span class="title title_event">Biograpghy</span>
+                              </a>
+                              <a href="https://www.pokemon.com/us/#" class="subnav-toggle"><span class="icon"></span></a>
+                           </li>
+                        </ul>
+                     </div>
+                  </nav>
+               </div>
+               <!-- ENDS navigation -->
+            </div>
+            <!-- ENDS HEADER-wrapper -->
+         </div>
+      </div>
+      <!-- ENDS HEADER -->
+      <!-- MAIN -->
+      <div id="main">
+         <!-- wrapper -->
+         <div class="wrapper">
+            <!-- home-content -->
+            <div class="home-content">
+               <!-- slideshow -->
+               <div id="slideshow">
+                  <a href="#" id="prev"></a> <a href="#" id="next"></a> <a href="#" id="slideshow-link" ><span></span></a>
+                  <!-- slides -->
+                  <ul id="slides">
+                     <li><a href="#"><img src="images/dark_saviors.jpg" alt="" /></a></li>
+                     <li><a href="#"><img src="images/extreme_force.jpg" alt="" /></a></li>
+                     <li><a href="#"><img src="images/flames_of_destruction.jpg" alt="" /></a></li>
+                  </ul>
+                  <!-- ENDS slides -->
+               </div>
+               <!-- ENDS slideshow -->
+               <!-- headline -->
+               <div class="headline"> SIMPLE THEME IS FREE AND EASY TO USE AND CONFIGURE.</div>
+               <!-- ENDS headline -->
+               <div class="shadow-divider"></div>
+               <div class="content">
+                  <div class="content_resize">
+                     <div class="mainbar">
+                        <div class="article">
+                           <h2><span>Excellent Solution</span> For Your Business</h2>
+                           <p class="infopost">Posted on <span class="date">11 sep 2018</span> by <a href="#">Admin</a> &nbsp;&nbsp;&bull;&nbsp;&nbsp; Filed under <a href="#">templates</a>, <a href="#">internet</a> <a href="#" class="com"><span>11</span></a></p>
+                           <div class="clr"></div>
+                           <div class="img"><img src="images/img1.jpg" width="177" height="213" alt="" class="fl" /></div>
+                           <div class="post_content">
+                              <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec libero. <a href="#">Suspendisse bibendum. Cras id urna.</a> Morbi tincidunt, orci ac convallis aliquam, lectus turpis varius lorem, eu posuere nunc justo tempus leo. Donec mattis, purus nec placerat bibendum, dui pede condimentum odio, ac blandit ante orci ut diam. Cras fringilla magna. Phasellus suscipit, leo a pharetra condimentum, lorem tellus eleifend magna, eget fringilla velit magna id neque. Curabitur vel urna. In tristique orci porttitor ipsum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec libero. Suspendisse bibendum. Cras id urna. Morbi tincidunt, orci ac convallis aliquam, lectus turpis varius lorem, eu posuere nunc justo tempus leo.</p>
+                              <p><strong>Aenean consequat porttitor adipiscing. Nam pellentesque justo ut tortor congue lobortis. Donec venenatis sagittis fringilla.</strong> Etiam nec libero magna, et dictum velit. Proin mauris mauris, mattis eu elementum eget, commodo in nulla. Mauris posuere venenatis pretium. Maecenas a dui sed lorem aliquam dictum. Nunc urna leo, imperdiet eu bibendum ac, pretium ac massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla facilisi. Quisque condimentum luctus ullamcorper.</p>
+                              <p class="spec"><a href="#" class="rm">Read more</a></p>
+                           </div>
+                           <div class="clr"></div>
+                        </div>
+                        <div class="article">
+                           <h2><span>We'll Make Sure Template</span> Works For You</h2>
+                           <p class="infopost">Posted on <span class="date">29 aug 2016</span> by <a href="#">Admin</a> &nbsp;&nbsp;&bull;&nbsp;&nbsp; Filed under <a href="#">templates</a>, <a href="#">internet</a> <a href="#" class="com"><span>7</span></a></p>
+                           <div class="clr"></div>
+                           <div class="img"><img src="images/img2.jpg" width="177" height="213" alt="" class="fl" /></div>
+                           <div class="post_content">
+                              <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec libero. Suspendisse bibendum. Cras id urna. <a href="#">Morbi tincidunt, orci ac convallis aliquam, lectus turpis varius lorem, eu posuere nunc justo tempus leo.</a> Donec mattis, purus nec placerat bibendum, dui pede condimentum odio, ac blandit ante orci ut diam. Cras fringilla magna. Phasellus suscipit, leo a pharetra condimentum, lorem tellus eleifend magna, eget fringilla velit magna id neque. Curabitur vel urna. In tristique orci porttitor ipsum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec libero. Suspendisse bibendum. Cras id urna. Morbi tincidunt, orci ac convallis aliquam.</p>
+                              <p><strong>Aenean consequat porttitor adipiscing. Nam pellentesque justo ut tortor congue lobortis. Donec venenatis sagittis fringilla.</strong> Etiam nec libero magna, et dictum velit. Proin mauris mauris, mattis eu elementum eget, commodo in nulla. Mauris posuere venenatis pretium. Maecenas a dui sed lorem aliquam dictum. Nunc urna leo, imperdiet eu bibendum ac, pretium ac massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla facilisi. Quisque condimentum luctus ullamcorper.</p>
+                              <p class="spec"><a href="#" class="rm">Read more</a></p>
+                           </div>
+                           <div class="clr"></div>
+                        </div>
+                        <p class="pages"><small>Page 1 of 2</small> <span>1</span> <a href="#">2</a> <a href="#">&raquo;</a></p>
+                     </div>
+                     <div class="sidebar">
+                        <div class="gadget">
+                           <h2 class="star"><span>Sidebar</span> Menu</h2>
+                           <div class="clr"></div>
+                           <ul class="sb_menu">
+                              <li><a href="#">Home</a></li>
+                              <li><a href="#">TemplateInfo</a></li>
+                              <li><a href="#">Style Demo</a></li>
+                              <li><a href="#">Blog</a></li>
+                              <li><a href="#">Archives</a></li>
+                              <li><a href="#">Web Templates</a></li>
+                           </ul>
+                        </div>
+                        <div class="gadget">
+                           <h2 class="star"><span>Sponsors</span></h2>
+                           <div class="clr"></div>
+                           <ul class="ex_menu">
+                              <li><a href="#">Lorem ipsum dolor</a><br />
+                                 Donec libero. Suspendisse bibendum
+                              </li>
+                              <li><a href="#">Dui pede condimentum</a><br />
+                                 Phasellus suscipit, leo a pharetra
+                              </li>
+                              <li><a href="#">Condimentum lorem</a><br />
+                                 Tellus eleifend magna eget
+                              </li>
+                              <li><a href="#">Fringilla velit magna</a><br />
+                                 Curabitur vel urna in tristique
+                              </li>
+                              <li><a href="#">Suspendisse bibendum</a><br />
+                                 Cras id urna orbi tincidunt orci ac
+                              </li>
+                              <li><a href="#">Donec mattis</a><br />
+                                 purus nec placerat bibendum
+                              </li>
+                           </ul>
+                        </div>
+                     </div>
+                     <div class="clr"></div>
+                  </div>
+               </div>
+               <!-- ENDS front-left-col -->
+            </div>
+            <!-- ENDS home-content -->
+         </div>
+         <!-- ENDS main-wrapper -->
+      </div>
+      <!-- ENDS MAIN -->
+      <!-- FOOTER -->
+      <div id="footer">
+         <div class="degree">
+            <!-- wrapper -->
+            <div class="wrapper">
+               <!-- social bar -->
+               <div id="social-bar">
+                  <ul class="follow-us">
+                     <li><span>FOLLOW US</span></li>
+                     <li><a href="#" class="icon-32 twitter-32 social-tooltip" title="Lorem ipsum dolor">link</a></li>
+                     <li><a href="#" class="icon-32 vimeo-32 social-tooltip" title="Lorem ipsum dolor">link</a></li>
+                     <li><a href="#" class="icon-32 dribbble-32 social-tooltip" title="Lorem ipsum dolor">link</a></li>
+                     <li><a href="#" class="icon-32 flickr-32 social-tooltip" title="Lorem ipsum dolor">link</a></li>
+                     <li><a href="#" class="icon-32 facebook-32 social-tooltip" title="Lorem ipsum dolor">link</a></li>
+                  </ul>
+               </div>
+               <!-- ENDS social bar -->
+               <!-- footer-cols -->
+               <ul class="footer-cols">
+                  <li class="col">
+                     <h6>CATEGORIES</h6>
+                     <ul>
+                        <li><a href="#">WEBDESIGN</a></li>
+                        <li><a href="#">WORDPRESS</a></li>
+                        <li><a href="#">PHOTO</a></li>
+                        <li><a href="#">CODING</a></li>
+                     </ul>
+                  </li>
+                  <li class="col">
+                     <h6>PAGES</h6>
+                     <ul>
+                        <li><a href="#">HOW TO CUSTOMIZE THIS TEMPLATE</a></li>
+                        <li><a href="#">5 ESSENTIALS RULES</a></li>
+                        <li><a href="#">LOREM IPSUM DOLOR</a></li>
+                     </ul>
+                  </li>
+                  <li class="col">
+                     <h6>FREE TEMPLATES &amp; THEMES</h6>
+                     <p>Get tons of free high quality templates on <a href="#">our website</a>.</p>
+                  </li>
+                  <li class="col">
+                     <h6>PAGES</h6>
+                     <ul>
+                        <li><a href="#">HOW TO CUSTOMIZE THIS TEMPLATE</a></li>
+                        <li><a href="#">5 ESSENTIALS RULES</a></li>
+                        <li><a href="#">LOREM IPSUM DOLOR</a></li>
+                     </ul>
+                  </li>
+               </ul>
+               <!-- ENDS footer-cols -->
+            </div>
+            <!-- ENDS footer-wrapper -->
+         </div>
+      </div>
+      <!-- ENDS FOOTER -->
+      <!-- BOTTOM -->
+      <div id="bottom">
+         <!-- wrapper -->
+         <div class="wrapper">&copy; Copyright 2012 <a href="#">Company Name</a> All Rights Reserved | Website Template By <a target="_blank" href="http://www.luiszuno.com">luiszuno</a> modified by <a href="http://www.os-templates.com/">OS Templates</a></div>
+         <!-- ENDS bottom-wrapper -->
+      </div>
+      <!-- ENDS BOTTOM -->
+      <!-- start cufon -->
+      <script type="text/javascript"> Cufon.now(); </script>
+      <!-- ENDS start cufon -->
+   </body>
+</html>
