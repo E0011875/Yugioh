@@ -11378,153 +11378,153 @@ html.nintendo nav.main li.home.last-item:after {
     border-radius: 0
 }
 
-nav.main li.explore:after {
+nav.main li.latest:after {
     background-color: #E3350D;
     transition: background-color 0.25s, height 0.25s
 }
 
-nav.main li.explore .secondary li,
-nav.main li.explore .secondary li .icon,
-nav.main li.explore .secondary li .arrow-right.button:after,
-nav.main li.explore .secondary li body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
-body.custom-form-elements label.radio-as-toggle-button nav.main li.explore .secondary li input+span.arrow-right:after,
-nav.main li.explore .secondary li .arrow-left.button:before,
-nav.main li.explore .secondary li body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
-body.custom-form-elements label.radio-as-toggle-button nav.main li.explore .secondary li input+span.arrow-left:before,
-nav.main li.explore .secondary li body.custom-form-elements select+i,
-body.custom-form-elements nav.main li.explore .secondary li select+i,
-nav.main li.explore .secondary li .custom-select-wrapper .custom-select-menu label:before,
-.custom-select-wrapper .custom-select-menu nav.main li.explore .secondary li label:before,
-nav.main li.explore .secondary li .custom-select-wrapper .custom-select-menu label:after,
-.custom-select-wrapper .custom-select-menu nav.main li.explore .secondary li label:after,
-nav.main li.explore .secondary li #back-to-top:before,
-nav.main li.explore .secondary li .trainer-card-stamps-all a.arrow-right:after,
-.trainer-card-stamps-all nav.main li.explore .secondary li a.arrow-right:after,
-nav.main li.explore .secondary li .aside-leaderboard-table .footer_link a:after,
-.aside-leaderboard-table .footer_link nav.main li.explore .secondary li a:after,
-nav.main li.explore .fill {
+nav.main li.latest .secondary li,
+nav.main li.latest .secondary li .icon,
+nav.main li.latest .secondary li .arrow-right.button:after,
+nav.main li.latest .secondary li body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
+body.custom-form-elements label.radio-as-toggle-button nav.main li.latest .secondary li input+span.arrow-right:after,
+nav.main li.latest .secondary li .arrow-left.button:before,
+nav.main li.latest .secondary li body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
+body.custom-form-elements label.radio-as-toggle-button nav.main li.latest .secondary li input+span.arrow-left:before,
+nav.main li.latest .secondary li body.custom-form-elements select+i,
+body.custom-form-elements nav.main li.latest .secondary li select+i,
+nav.main li.latest .secondary li .custom-select-wrapper .custom-select-menu label:before,
+.custom-select-wrapper .custom-select-menu nav.main li.latest .secondary li label:before,
+nav.main li.latest .secondary li .custom-select-wrapper .custom-select-menu label:after,
+.custom-select-wrapper .custom-select-menu nav.main li.latest .secondary li label:after,
+nav.main li.latest .secondary li #back-to-top:before,
+nav.main li.latest .secondary li .trainer-card-stamps-all a.arrow-right:after,
+.trainer-card-stamps-all nav.main li.latest .secondary li a.arrow-right:after,
+nav.main li.latest .secondary li .aside-leaderboard-table .footer_link a:after,
+.aside-leaderboard-table .footer_link nav.main li.latest .secondary li a:after,
+nav.main li.latest .fill {
     background-color: #E3350D;
 }
 
-nav.main li.explore .secondary li {
+nav.main li.latest .secondary li {
     border-bottom: 1px solid #831e07
 }
 
-nav.main li.explore .tertiary li:first-child {
+nav.main li.latest .tertiary li:first-child {
     border-top: 1px solid #831e07
 }
 
-nav.main li.explore .icon,
-nav.main li.explore .arrow-right.button:after,
-nav.main li.explore body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
-body.custom-form-elements label.radio-as-toggle-button nav.main li.explore input+span.arrow-right:after,
-nav.main li.explore .arrow-left.button:before,
-nav.main li.explore body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
-body.custom-form-elements label.radio-as-toggle-button nav.main li.explore input+span.arrow-left:before,
-nav.main li.explore body.custom-form-elements select+i,
-body.custom-form-elements nav.main li.explore select+i,
-nav.main li.explore .custom-select-wrapper .custom-select-menu label:before,
-.custom-select-wrapper .custom-select-menu nav.main li.explore label:before,
-nav.main li.explore .custom-select-wrapper .custom-select-menu label:after,
-.custom-select-wrapper .custom-select-menu nav.main li.explore label:after,
-nav.main li.explore #back-to-top:before,
-nav.main li.explore .trainer-card-stamps-all a.arrow-right:after,
-.trainer-card-stamps-all nav.main li.explore a.arrow-right:after,
-nav.main li.explore .aside-leaderboard-table .footer_link a:after,
-.aside-leaderboard-table .footer_link nav.main li.explore a:after {
+nav.main li.latest .icon,
+nav.main li.latest .arrow-right.button:after,
+nav.main li.latest body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
+body.custom-form-elements label.radio-as-toggle-button nav.main li.latest input+span.arrow-right:after,
+nav.main li.latest .arrow-left.button:before,
+nav.main li.latest body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
+body.custom-form-elements label.radio-as-toggle-button nav.main li.latest input+span.arrow-left:before,
+nav.main li.latest body.custom-form-elements select+i,
+body.custom-form-elements nav.main li.latest select+i,
+nav.main li.latest .custom-select-wrapper .custom-select-menu label:before,
+.custom-select-wrapper .custom-select-menu nav.main li.latest label:before,
+nav.main li.latest .custom-select-wrapper .custom-select-menu label:after,
+.custom-select-wrapper .custom-select-menu nav.main li.latest label:after,
+nav.main li.latest #back-to-top:before,
+nav.main li.latest .trainer-card-stamps-all a.arrow-right:after,
+.trainer-card-stamps-all nav.main li.latest a.arrow-right:after,
+nav.main li.latest .aside-leaderboard-table .footer_link a:after,
+.aside-leaderboard-table .footer_link nav.main li.latest a:after {
     color: #E3350D
 }
 
-html.no-touch nav.main li.explore:hover {
+html.no-touch nav.main li.latest:hover {
     background-color: #E3350D
 }
 
-html.no-touch nav.main li.explore:hover .fill {
+html.no-touch nav.main li.latest:hover .fill {
     height: 87px;
     opacity: 1
 }
 
-html.no-touch nav.main li.explore:hover .icon,
-html.no-touch nav.main li.explore:hover .arrow-right.button:after,
-html.no-touch nav.main li.explore:hover body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
-body.custom-form-elements label.radio-as-toggle-button html.no-touch nav.main li.explore:hover input+span.arrow-right:after,
-html.no-touch nav.main li.explore:hover .arrow-left.button:before,
-html.no-touch nav.main li.explore:hover body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
-body.custom-form-elements label.radio-as-toggle-button html.no-touch nav.main li.explore:hover input+span.arrow-left:before,
-html.no-touch nav.main li.explore:hover body.custom-form-elements select+i,
-body.custom-form-elements html.no-touch nav.main li.explore:hover select+i,
-html.no-touch nav.main li.explore:hover .custom-select-wrapper .custom-select-menu label:before,
-.custom-select-wrapper .custom-select-menu html.no-touch nav.main li.explore:hover label:before,
-html.no-touch nav.main li.explore:hover .custom-select-wrapper .custom-select-menu label:after,
-.custom-select-wrapper .custom-select-menu html.no-touch nav.main li.explore:hover label:after,
-html.no-touch nav.main li.explore:hover #back-to-top:before,
-html.no-touch nav.main li.explore:hover .trainer-card-stamps-all a.arrow-right:after,
-.trainer-card-stamps-all html.no-touch nav.main li.explore:hover a.arrow-right:after,
-html.no-touch nav.main li.explore:hover .aside-leaderboard-table .footer_link a:after,
-.aside-leaderboard-table .footer_link html.no-touch nav.main li.explore:hover a:after {
+html.no-touch nav.main li.latest:hover .icon,
+html.no-touch nav.main li.latest:hover .arrow-right.button:after,
+html.no-touch nav.main li.latest:hover body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
+body.custom-form-elements label.radio-as-toggle-button html.no-touch nav.main li.latest:hover input+span.arrow-right:after,
+html.no-touch nav.main li.latest:hover .arrow-left.button:before,
+html.no-touch nav.main li.latest:hover body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
+body.custom-form-elements label.radio-as-toggle-button html.no-touch nav.main li.latest:hover input+span.arrow-left:before,
+html.no-touch nav.main li.latest:hover body.custom-form-elements select+i,
+body.custom-form-elements html.no-touch nav.main li.latest:hover select+i,
+html.no-touch nav.main li.latest:hover .custom-select-wrapper .custom-select-menu label:before,
+.custom-select-wrapper .custom-select-menu html.no-touch nav.main li.latest:hover label:before,
+html.no-touch nav.main li.latest:hover .custom-select-wrapper .custom-select-menu label:after,
+.custom-select-wrapper .custom-select-menu html.no-touch nav.main li.latest:hover label:after,
+html.no-touch nav.main li.latest:hover #back-to-top:before,
+html.no-touch nav.main li.latest:hover .trainer-card-stamps-all a.arrow-right:after,
+.trainer-card-stamps-all html.no-touch nav.main li.latest:hover a.arrow-right:after,
+html.no-touch nav.main li.latest:hover .aside-leaderboard-table .footer_link a:after,
+.aside-leaderboard-table .footer_link html.no-touch nav.main li.latest:hover a:after {
     color: #fff
 }
 
-html.no-touch nav.main li.explore:hover:after {
+html.no-touch nav.main li.latest:hover:after {
     background-color: #E3350D
 }
 
-nav.main li.explore a.hover,
-nav.main li.explore a.active {
+nav.main li.latest a.hover,
+nav.main li.latest a.active {
     background-color: #E3350D
 }
 
-nav.main li.explore a.hover:after,
-nav.main li.explore a.active:after {
+nav.main li.latest a.hover:after,
+nav.main li.latest a.active:after {
     background-color: #E3350D
 }
 
-nav.main li.explore a.hover .fill,
-nav.main li.explore a.active .fill {
+nav.main li.latest a.hover .fill,
+nav.main li.latest a.active .fill {
     height: 87px;
     opacity: 1
 }
 
-nav.main li.explore a.hover .icon,
-nav.main li.explore a.hover .arrow-right.button:after,
-nav.main li.explore a.hover body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
-body.custom-form-elements label.radio-as-toggle-button nav.main li.explore a.hover input+span.arrow-right:after,
-nav.main li.explore a.hover .arrow-left.button:before,
-nav.main li.explore a.hover body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
-body.custom-form-elements label.radio-as-toggle-button nav.main li.explore a.hover input+span.arrow-left:before,
-nav.main li.explore a.hover body.custom-form-elements select+i,
-body.custom-form-elements nav.main li.explore a.hover select+i,
-nav.main li.explore a.hover .custom-select-wrapper .custom-select-menu label:before,
-.custom-select-wrapper .custom-select-menu nav.main li.explore a.hover label:before,
-nav.main li.explore a.hover .custom-select-wrapper .custom-select-menu label:after,
-.custom-select-wrapper .custom-select-menu nav.main li.explore a.hover label:after,
-nav.main li.explore a.hover #back-to-top:before,
-nav.main li.explore a.hover .trainer-card-stamps-all a.arrow-right:after,
-.trainer-card-stamps-all nav.main li.explore a.hover a.arrow-right:after,
-nav.main li.explore a.hover .aside-leaderboard-table .footer_link a:after,
-.aside-leaderboard-table .footer_link nav.main li.explore a.hover a:after,
-nav.main li.explore a.active .icon,
-nav.main li.explore a.active .arrow-right.button:after,
-nav.main li.explore a.active body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
-body.custom-form-elements label.radio-as-toggle-button nav.main li.explore a.active input+span.arrow-right:after,
-nav.main li.explore a.active .arrow-left.button:before,
-nav.main li.explore a.active body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
-body.custom-form-elements label.radio-as-toggle-button nav.main li.explore a.active input+span.arrow-left:before,
-nav.main li.explore a.active body.custom-form-elements select+i,
-body.custom-form-elements nav.main li.explore a.active select+i,
-nav.main li.explore a.active .custom-select-wrapper .custom-select-menu label:before,
-.custom-select-wrapper .custom-select-menu nav.main li.explore a.active label:before,
-nav.main li.explore a.active .custom-select-wrapper .custom-select-menu label:after,
-.custom-select-wrapper .custom-select-menu nav.main li.explore a.active label:after,
-nav.main li.explore a.active #back-to-top:before,
-nav.main li.explore a.active .trainer-card-stamps-all a.arrow-right:after,
-.trainer-card-stamps-all nav.main li.explore a.active a.arrow-right:after,
-nav.main li.explore a.active .aside-leaderboard-table .footer_link a:after,
-.aside-leaderboard-table .footer_link nav.main li.explore a.active a:after {
+nav.main li.latest a.hover .icon,
+nav.main li.latest a.hover .arrow-right.button:after,
+nav.main li.latest a.hover body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
+body.custom-form-elements label.radio-as-toggle-button nav.main li.latest a.hover input+span.arrow-right:after,
+nav.main li.latest a.hover .arrow-left.button:before,
+nav.main li.latest a.hover body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
+body.custom-form-elements label.radio-as-toggle-button nav.main li.latest a.hover input+span.arrow-left:before,
+nav.main li.latest a.hover body.custom-form-elements select+i,
+body.custom-form-elements nav.main li.latest a.hover select+i,
+nav.main li.latest a.hover .custom-select-wrapper .custom-select-menu label:before,
+.custom-select-wrapper .custom-select-menu nav.main li.latest a.hover label:before,
+nav.main li.latest a.hover .custom-select-wrapper .custom-select-menu label:after,
+.custom-select-wrapper .custom-select-menu nav.main li.latest a.hover label:after,
+nav.main li.latest a.hover #back-to-top:before,
+nav.main li.latest a.hover .trainer-card-stamps-all a.arrow-right:after,
+.trainer-card-stamps-all nav.main li.latest a.hover a.arrow-right:after,
+nav.main li.latest a.hover .aside-leaderboard-table .footer_link a:after,
+.aside-leaderboard-table .footer_link nav.main li.latest a.hover a:after,
+nav.main li.latest a.active .icon,
+nav.main li.latest a.active .arrow-right.button:after,
+nav.main li.latest a.active body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
+body.custom-form-elements label.radio-as-toggle-button nav.main li.latest a.active input+span.arrow-right:after,
+nav.main li.latest a.active .arrow-left.button:before,
+nav.main li.latest a.active body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
+body.custom-form-elements label.radio-as-toggle-button nav.main li.latest a.active input+span.arrow-left:before,
+nav.main li.latest a.active body.custom-form-elements select+i,
+body.custom-form-elements nav.main li.latest a.active select+i,
+nav.main li.latest a.active .custom-select-wrapper .custom-select-menu label:before,
+.custom-select-wrapper .custom-select-menu nav.main li.latest a.active label:before,
+nav.main li.latest a.active .custom-select-wrapper .custom-select-menu label:after,
+.custom-select-wrapper .custom-select-menu nav.main li.latest a.active label:after,
+nav.main li.latest a.active #back-to-top:before,
+nav.main li.latest a.active .trainer-card-stamps-all a.arrow-right:after,
+.trainer-card-stamps-all nav.main li.latest a.active a.arrow-right:after,
+nav.main li.latest a.active .aside-leaderboard-table .footer_link a:after,
+.aside-leaderboard-table .footer_link nav.main li.latest a.active a:after {
     color: #fff
 }
 
-html.no-touch.csstransitions nav.main li.explore .fill {
+html.no-touch.csstransitions nav.main li.latest .fill {
     -webkit-transition: height 0.2s 0 ease;
     -ms-transition: height 0.2s 0 ease;
     -moz-transition: height 0.2s 0 ease;
@@ -11532,24 +11532,24 @@ html.no-touch.csstransitions nav.main li.explore .fill {
     transition: height 0.2s 0 ease
 }
 
-html.no-touch.csstransitions nav.main li.explore .icon,
-html.no-touch.csstransitions nav.main li.explore .arrow-right.button:after,
-html.no-touch.csstransitions nav.main li.explore body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
-body.custom-form-elements label.radio-as-toggle-button html.no-touch.csstransitions nav.main li.explore input+span.arrow-right:after,
-html.no-touch.csstransitions nav.main li.explore .arrow-left.button:before,
-html.no-touch.csstransitions nav.main li.explore body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
-body.custom-form-elements label.radio-as-toggle-button html.no-touch.csstransitions nav.main li.explore input+span.arrow-left:before,
-html.no-touch.csstransitions nav.main li.explore body.custom-form-elements select+i,
-body.custom-form-elements html.no-touch.csstransitions nav.main li.explore select+i,
-html.no-touch.csstransitions nav.main li.explore .custom-select-wrapper .custom-select-menu label:before,
-.custom-select-wrapper .custom-select-menu html.no-touch.csstransitions nav.main li.explore label:before,
-html.no-touch.csstransitions nav.main li.explore .custom-select-wrapper .custom-select-menu label:after,
-.custom-select-wrapper .custom-select-menu html.no-touch.csstransitions nav.main li.explore label:after,
-html.no-touch.csstransitions nav.main li.explore #back-to-top:before,
-html.no-touch.csstransitions nav.main li.explore .trainer-card-stamps-all a.arrow-right:after,
-.trainer-card-stamps-all html.no-touch.csstransitions nav.main li.explore a.arrow-right:after,
-html.no-touch.csstransitions nav.main li.explore .aside-leaderboard-table .footer_link a:after,
-.aside-leaderboard-table .footer_link html.no-touch.csstransitions nav.main li.explore a:after {
+html.no-touch.csstransitions nav.main li.latest .icon,
+html.no-touch.csstransitions nav.main li.latest .arrow-right.button:after,
+html.no-touch.csstransitions nav.main li.latest body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
+body.custom-form-elements label.radio-as-toggle-button html.no-touch.csstransitions nav.main li.latest input+span.arrow-right:after,
+html.no-touch.csstransitions nav.main li.latest .arrow-left.button:before,
+html.no-touch.csstransitions nav.main li.latest body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
+body.custom-form-elements label.radio-as-toggle-button html.no-touch.csstransitions nav.main li.latest input+span.arrow-left:before,
+html.no-touch.csstransitions nav.main li.latest body.custom-form-elements select+i,
+body.custom-form-elements html.no-touch.csstransitions nav.main li.latest select+i,
+html.no-touch.csstransitions nav.main li.latest .custom-select-wrapper .custom-select-menu label:before,
+.custom-select-wrapper .custom-select-menu html.no-touch.csstransitions nav.main li.latest label:before,
+html.no-touch.csstransitions nav.main li.latest .custom-select-wrapper .custom-select-menu label:after,
+.custom-select-wrapper .custom-select-menu html.no-touch.csstransitions nav.main li.latest label:after,
+html.no-touch.csstransitions nav.main li.latest #back-to-top:before,
+html.no-touch.csstransitions nav.main li.latest .trainer-card-stamps-all a.arrow-right:after,
+.trainer-card-stamps-all html.no-touch.csstransitions nav.main li.latest a.arrow-right:after,
+html.no-touch.csstransitions nav.main li.latest .aside-leaderboard-table .footer_link a:after,
+.aside-leaderboard-table .footer_link html.no-touch.csstransitions nav.main li.latest a:after {
     -webkit-transition: color 0.1s 0 ease;
     -ms-transition: color 0.1s 0 ease;
     -moz-transition: color 0.1s 0 ease;
@@ -11557,7 +11557,7 @@ html.no-touch.csstransitions nav.main li.explore .aside-leaderboard-table .foote
     transition: color 0.1s 0 ease
 }
 
-html.no-touch.csstransitions nav.main li.explore .title {
+html.no-touch.csstransitions nav.main li.latest .title {
     -webkit-transition: opacity 0 0;
     -ms-transition: opacity 0 0;
     -moz-transition: opacity 0 0;
@@ -11565,7 +11565,7 @@ html.no-touch.csstransitions nav.main li.explore .title {
     transition: opacity 0 0
 }
 
-html.no-touch.csstransitions nav.main li.explore:after {
+html.no-touch.csstransitions nav.main li.latest:after {
     -webkit-transition: background-color 0 0.1s;
     -ms-transition: background-color 0 0.1s;
     -moz-transition: background-color 0 0.1s;
@@ -11573,7 +11573,7 @@ html.no-touch.csstransitions nav.main li.explore:after {
     transition: background-color 0 0.1s
 }
 
-html.no-touch.csstransitions nav.main li.explore:hover:after {
+html.no-touch.csstransitions nav.main li.latest:hover:after {
     -webkit-transition: background-color 0 0;
     -ms-transition: background-color 0 0;
     -moz-transition: background-color 0 0;
@@ -11581,7 +11581,7 @@ html.no-touch.csstransitions nav.main li.explore:hover:after {
     transition: background-color 0 0
 }
 
-html.no-touch.csstransitions nav.main li.explore:hover .title {
+html.no-touch.csstransitions nav.main li.latest:hover .title {
     -webkit-transition: opacity 0.2s 0.1s ease;
     -ms-transition: opacity 0.2s 0.1s ease;
     -moz-transition: opacity 0.2s 0.1s ease;
@@ -11589,161 +11589,161 @@ html.no-touch.csstransitions nav.main li.explore:hover .title {
     transition: opacity 0.2s 0.1s ease
 }
 
-nav.main li.explore.last-item:after {
+nav.main li.latest.last-item:after {
     border-radius: 0 0 8px 0
 }
 
-html.nintendo nav.main li.explore.last-item:after {
+html.nintendo nav.main li.latest.last-item:after {
     border-radius: 0
 }
 
-nav.main li.watch:after {
+nav.main li.forum:after {
     background-color: #ee6b2f;
     transition: background-color 0.25s, height 0.25s
 }
 
-nav.main li.watch .secondary li,
-nav.main li.watch .secondary li .icon,
-nav.main li.watch .secondary li .arrow-right.button:after,
-nav.main li.watch .secondary li body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
-body.custom-form-elements label.radio-as-toggle-button nav.main li.watch .secondary li input+span.arrow-right:after,
-nav.main li.watch .secondary li .arrow-left.button:before,
-nav.main li.watch .secondary li body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
-body.custom-form-elements label.radio-as-toggle-button nav.main li.watch .secondary li input+span.arrow-left:before,
-nav.main li.watch .secondary li body.custom-form-elements select+i,
-body.custom-form-elements nav.main li.watch .secondary li select+i,
-nav.main li.watch .secondary li .custom-select-wrapper .custom-select-menu label:before,
-.custom-select-wrapper .custom-select-menu nav.main li.watch .secondary li label:before,
-nav.main li.watch .secondary li .custom-select-wrapper .custom-select-menu label:after,
-.custom-select-wrapper .custom-select-menu nav.main li.watch .secondary li label:after,
-nav.main li.watch .secondary li #back-to-top:before,
-nav.main li.watch .secondary li .trainer-card-stamps-all a.arrow-right:after,
-.trainer-card-stamps-all nav.main li.watch .secondary li a.arrow-right:after,
-nav.main li.watch .secondary li .aside-leaderboard-table .footer_link a:after,
-.aside-leaderboard-table .footer_link nav.main li.watch .secondary li a:after,
-nav.main li.watch .fill {
+nav.main li.forum .secondary li,
+nav.main li.forum .secondary li .icon,
+nav.main li.forum .secondary li .arrow-right.button:after,
+nav.main li.forum .secondary li body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
+body.custom-form-elements label.radio-as-toggle-button nav.main li.forum .secondary li input+span.arrow-right:after,
+nav.main li.forum .secondary li .arrow-left.button:before,
+nav.main li.forum .secondary li body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
+body.custom-form-elements label.radio-as-toggle-button nav.main li.forum .secondary li input+span.arrow-left:before,
+nav.main li.forum .secondary li body.custom-form-elements select+i,
+body.custom-form-elements nav.main li.forum .secondary li select+i,
+nav.main li.forum .secondary li .custom-select-wrapper .custom-select-menu label:before,
+.custom-select-wrapper .custom-select-menu nav.main li.forum .secondary li label:before,
+nav.main li.forum .secondary li .custom-select-wrapper .custom-select-menu label:after,
+.custom-select-wrapper .custom-select-menu nav.main li.forum .secondary li label:after,
+nav.main li.forum .secondary li #back-to-top:before,
+nav.main li.forum .secondary li .trainer-card-stamps-all a.arrow-right:after,
+.trainer-card-stamps-all nav.main li.forum .secondary li a.arrow-right:after,
+nav.main li.forum .secondary li .aside-leaderboard-table .footer_link a:after,
+.aside-leaderboard-table .footer_link nav.main li.forum .secondary li a:after,
+nav.main li.forum .fill {
     background-color: #ee6b2f
 }
 
-nav.main li.watch .secondary li {
+nav.main li.forum .secondary li {
     border-bottom: 1px solid #a93f0e
 }
 
-nav.main li.watch .tertiary li:first-child {
+nav.main li.forum .tertiary li:first-child {
     border-top: 1px solid #a93f0e
 }
 
-nav.main li.watch .icon,
-nav.main li.watch .arrow-right.button:after,
-nav.main li.watch body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
-body.custom-form-elements label.radio-as-toggle-button nav.main li.watch input+span.arrow-right:after,
-nav.main li.watch .arrow-left.button:before,
-nav.main li.watch body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
-body.custom-form-elements label.radio-as-toggle-button nav.main li.watch input+span.arrow-left:before,
-nav.main li.watch body.custom-form-elements select+i,
-body.custom-form-elements nav.main li.watch select+i,
-nav.main li.watch .custom-select-wrapper .custom-select-menu label:before,
-.custom-select-wrapper .custom-select-menu nav.main li.watch label:before,
-nav.main li.watch .custom-select-wrapper .custom-select-menu label:after,
-.custom-select-wrapper .custom-select-menu nav.main li.watch label:after,
-nav.main li.watch #back-to-top:before,
-nav.main li.watch .trainer-card-stamps-all a.arrow-right:after,
-.trainer-card-stamps-all nav.main li.watch a.arrow-right:after,
-nav.main li.watch .aside-leaderboard-table .footer_link a:after,
-.aside-leaderboard-table .footer_link nav.main li.watch a:after {
+nav.main li.forum .icon,
+nav.main li.forum .arrow-right.button:after,
+nav.main li.forum body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
+body.custom-form-elements label.radio-as-toggle-button nav.main li.forum input+span.arrow-right:after,
+nav.main li.forum .arrow-left.button:before,
+nav.main li.forum body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
+body.custom-form-elements label.radio-as-toggle-button nav.main li.forum input+span.arrow-left:before,
+nav.main li.forum body.custom-form-elements select+i,
+body.custom-form-elements nav.main li.forum select+i,
+nav.main li.forum .custom-select-wrapper .custom-select-menu label:before,
+.custom-select-wrapper .custom-select-menu nav.main li.forum label:before,
+nav.main li.forum .custom-select-wrapper .custom-select-menu label:after,
+.custom-select-wrapper .custom-select-menu nav.main li.forum label:after,
+nav.main li.forum #back-to-top:before,
+nav.main li.forum .trainer-card-stamps-all a.arrow-right:after,
+.trainer-card-stamps-all nav.main li.forum a.arrow-right:after,
+nav.main li.forum .aside-leaderboard-table .footer_link a:after,
+.aside-leaderboard-table .footer_link nav.main li.forum a:after {
     color: #ee6b2f
 }
 
-html.no-touch nav.main li.watch:hover {
+html.no-touch nav.main li.forum:hover {
     background-color: #ee6b2f
 }
 
-html.no-touch nav.main li.watch:hover .fill {
+html.no-touch nav.main li.forum:hover .fill {
     height: 87px;
     opacity: 1
 }
 
-html.no-touch nav.main li.watch:hover .icon,
-html.no-touch nav.main li.watch:hover .arrow-right.button:after,
-html.no-touch nav.main li.watch:hover body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
-body.custom-form-elements label.radio-as-toggle-button html.no-touch nav.main li.watch:hover input+span.arrow-right:after,
-html.no-touch nav.main li.watch:hover .arrow-left.button:before,
-html.no-touch nav.main li.watch:hover body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
-body.custom-form-elements label.radio-as-toggle-button html.no-touch nav.main li.watch:hover input+span.arrow-left:before,
-html.no-touch nav.main li.watch:hover body.custom-form-elements select+i,
-body.custom-form-elements html.no-touch nav.main li.watch:hover select+i,
-html.no-touch nav.main li.watch:hover .custom-select-wrapper .custom-select-menu label:before,
-.custom-select-wrapper .custom-select-menu html.no-touch nav.main li.watch:hover label:before,
-html.no-touch nav.main li.watch:hover .custom-select-wrapper .custom-select-menu label:after,
-.custom-select-wrapper .custom-select-menu html.no-touch nav.main li.watch:hover label:after,
-html.no-touch nav.main li.watch:hover #back-to-top:before,
-html.no-touch nav.main li.watch:hover .trainer-card-stamps-all a.arrow-right:after,
-.trainer-card-stamps-all html.no-touch nav.main li.watch:hover a.arrow-right:after,
-html.no-touch nav.main li.watch:hover .aside-leaderboard-table .footer_link a:after,
-.aside-leaderboard-table .footer_link html.no-touch nav.main li.watch:hover a:after {
+html.no-touch nav.main li.forum:hover .icon,
+html.no-touch nav.main li.forum:hover .arrow-right.button:after,
+html.no-touch nav.main li.forum:hover body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
+body.custom-form-elements label.radio-as-toggle-button html.no-touch nav.main li.forum:hover input+span.arrow-right:after,
+html.no-touch nav.main li.forum:hover .arrow-left.button:before,
+html.no-touch nav.main li.forum:hover body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
+body.custom-form-elements label.radio-as-toggle-button html.no-touch nav.main li.forum:hover input+span.arrow-left:before,
+html.no-touch nav.main li.forum:hover body.custom-form-elements select+i,
+body.custom-form-elements html.no-touch nav.main li.forum:hover select+i,
+html.no-touch nav.main li.forum:hover .custom-select-wrapper .custom-select-menu label:before,
+.custom-select-wrapper .custom-select-menu html.no-touch nav.main li.forum:hover label:before,
+html.no-touch nav.main li.forum:hover .custom-select-wrapper .custom-select-menu label:after,
+.custom-select-wrapper .custom-select-menu html.no-touch nav.main li.forum:hover label:after,
+html.no-touch nav.main li.forum:hover #back-to-top:before,
+html.no-touch nav.main li.forum:hover .trainer-card-stamps-all a.arrow-right:after,
+.trainer-card-stamps-all html.no-touch nav.main li.forum:hover a.arrow-right:after,
+html.no-touch nav.main li.forum:hover .aside-leaderboard-table .footer_link a:after,
+.aside-leaderboard-table .footer_link html.no-touch nav.main li.forum:hover a:after {
     color: #fff
 }
 
-html.no-touch nav.main li.watch:hover:after {
+html.no-touch nav.main li.forum:hover:after {
     background-color: #ee6b2f
 }
 
-nav.main li.watch a.hover,
-nav.main li.watch a.active {
+nav.main li.forum a.hover,
+nav.main li.forum a.active {
     background-color: #ee6b2f
 }
 
-nav.main li.watch a.hover:after,
-nav.main li.watch a.active:after {
+nav.main li.forum a.hover:after,
+nav.main li.forum a.active:after {
     background-color: #ee6b2f
 }
 
-nav.main li.watch a.hover .fill,
-nav.main li.watch a.active .fill {
+nav.main li.forum a.hover .fill,
+nav.main li.forum a.active .fill {
     height: 87px;
     opacity: 1
 }
 
-nav.main li.watch a.hover .icon,
-nav.main li.watch a.hover .arrow-right.button:after,
-nav.main li.watch a.hover body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
-body.custom-form-elements label.radio-as-toggle-button nav.main li.watch a.hover input+span.arrow-right:after,
-nav.main li.watch a.hover .arrow-left.button:before,
-nav.main li.watch a.hover body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
-body.custom-form-elements label.radio-as-toggle-button nav.main li.watch a.hover input+span.arrow-left:before,
-nav.main li.watch a.hover body.custom-form-elements select+i,
-body.custom-form-elements nav.main li.watch a.hover select+i,
-nav.main li.watch a.hover .custom-select-wrapper .custom-select-menu label:before,
-.custom-select-wrapper .custom-select-menu nav.main li.watch a.hover label:before,
-nav.main li.watch a.hover .custom-select-wrapper .custom-select-menu label:after,
-.custom-select-wrapper .custom-select-menu nav.main li.watch a.hover label:after,
-nav.main li.watch a.hover #back-to-top:before,
-nav.main li.watch a.hover .trainer-card-stamps-all a.arrow-right:after,
-.trainer-card-stamps-all nav.main li.watch a.hover a.arrow-right:after,
-nav.main li.watch a.hover .aside-leaderboard-table .footer_link a:after,
-.aside-leaderboard-table .footer_link nav.main li.watch a.hover a:after,
-nav.main li.watch a.active .icon,
-nav.main li.watch a.active .arrow-right.button:after,
-nav.main li.watch a.active body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
-body.custom-form-elements label.radio-as-toggle-button nav.main li.watch a.active input+span.arrow-right:after,
-nav.main li.watch a.active .arrow-left.button:before,
-nav.main li.watch a.active body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
-body.custom-form-elements label.radio-as-toggle-button nav.main li.watch a.active input+span.arrow-left:before,
-nav.main li.watch a.active body.custom-form-elements select+i,
-body.custom-form-elements nav.main li.watch a.active select+i,
-nav.main li.watch a.active .custom-select-wrapper .custom-select-menu label:before,
-.custom-select-wrapper .custom-select-menu nav.main li.watch a.active label:before,
-nav.main li.watch a.active .custom-select-wrapper .custom-select-menu label:after,
-.custom-select-wrapper .custom-select-menu nav.main li.watch a.active label:after,
-nav.main li.watch a.active #back-to-top:before,
-nav.main li.watch a.active .trainer-card-stamps-all a.arrow-right:after,
-.trainer-card-stamps-all nav.main li.watch a.active a.arrow-right:after,
-nav.main li.watch a.active .aside-leaderboard-table .footer_link a:after,
-.aside-leaderboard-table .footer_link nav.main li.watch a.active a:after {
+nav.main li.forum a.hover .icon,
+nav.main li.forum a.hover .arrow-right.button:after,
+nav.main li.forum a.hover body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
+body.custom-form-elements label.radio-as-toggle-button nav.main li.forum a.hover input+span.arrow-right:after,
+nav.main li.forum a.hover .arrow-left.button:before,
+nav.main li.forum a.hover body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
+body.custom-form-elements label.radio-as-toggle-button nav.main li.forum a.hover input+span.arrow-left:before,
+nav.main li.forum a.hover body.custom-form-elements select+i,
+body.custom-form-elements nav.main li.forum a.hover select+i,
+nav.main li.forum a.hover .custom-select-wrapper .custom-select-menu label:before,
+.custom-select-wrapper .custom-select-menu nav.main li.forum a.hover label:before,
+nav.main li.forum a.hover .custom-select-wrapper .custom-select-menu label:after,
+.custom-select-wrapper .custom-select-menu nav.main li.forum a.hover label:after,
+nav.main li.forum a.hover #back-to-top:before,
+nav.main li.forum a.hover .trainer-card-stamps-all a.arrow-right:after,
+.trainer-card-stamps-all nav.main li.forum a.hover a.arrow-right:after,
+nav.main li.forum a.hover .aside-leaderboard-table .footer_link a:after,
+.aside-leaderboard-table .footer_link nav.main li.forum a.hover a:after,
+nav.main li.forum a.active .icon,
+nav.main li.forum a.active .arrow-right.button:after,
+nav.main li.forum a.active body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
+body.custom-form-elements label.radio-as-toggle-button nav.main li.forum a.active input+span.arrow-right:after,
+nav.main li.forum a.active .arrow-left.button:before,
+nav.main li.forum a.active body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
+body.custom-form-elements label.radio-as-toggle-button nav.main li.forum a.active input+span.arrow-left:before,
+nav.main li.forum a.active body.custom-form-elements select+i,
+body.custom-form-elements nav.main li.forum a.active select+i,
+nav.main li.forum a.active .custom-select-wrapper .custom-select-menu label:before,
+.custom-select-wrapper .custom-select-menu nav.main li.forum a.active label:before,
+nav.main li.forum a.active .custom-select-wrapper .custom-select-menu label:after,
+.custom-select-wrapper .custom-select-menu nav.main li.forum a.active label:after,
+nav.main li.forum a.active #back-to-top:before,
+nav.main li.forum a.active .trainer-card-stamps-all a.arrow-right:after,
+.trainer-card-stamps-all nav.main li.forum a.active a.arrow-right:after,
+nav.main li.forum a.active .aside-leaderboard-table .footer_link a:after,
+.aside-leaderboard-table .footer_link nav.main li.forum a.active a:after {
     color: #fff
 }
 
-html.no-touch.csstransitions nav.main li.watch .fill {
+html.no-touch.csstransitions nav.main li.forum .fill {
     -webkit-transition: height 0.2s 0 ease;
     -ms-transition: height 0.2s 0 ease;
     -moz-transition: height 0.2s 0 ease;
@@ -11751,24 +11751,24 @@ html.no-touch.csstransitions nav.main li.watch .fill {
     transition: height 0.2s 0 ease
 }
 
-html.no-touch.csstransitions nav.main li.watch .icon,
-html.no-touch.csstransitions nav.main li.watch .arrow-right.button:after,
-html.no-touch.csstransitions nav.main li.watch body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
-body.custom-form-elements label.radio-as-toggle-button html.no-touch.csstransitions nav.main li.watch input+span.arrow-right:after,
-html.no-touch.csstransitions nav.main li.watch .arrow-left.button:before,
-html.no-touch.csstransitions nav.main li.watch body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
-body.custom-form-elements label.radio-as-toggle-button html.no-touch.csstransitions nav.main li.watch input+span.arrow-left:before,
-html.no-touch.csstransitions nav.main li.watch body.custom-form-elements select+i,
-body.custom-form-elements html.no-touch.csstransitions nav.main li.watch select+i,
-html.no-touch.csstransitions nav.main li.watch .custom-select-wrapper .custom-select-menu label:before,
-.custom-select-wrapper .custom-select-menu html.no-touch.csstransitions nav.main li.watch label:before,
-html.no-touch.csstransitions nav.main li.watch .custom-select-wrapper .custom-select-menu label:after,
-.custom-select-wrapper .custom-select-menu html.no-touch.csstransitions nav.main li.watch label:after,
-html.no-touch.csstransitions nav.main li.watch #back-to-top:before,
-html.no-touch.csstransitions nav.main li.watch .trainer-card-stamps-all a.arrow-right:after,
-.trainer-card-stamps-all html.no-touch.csstransitions nav.main li.watch a.arrow-right:after,
-html.no-touch.csstransitions nav.main li.watch .aside-leaderboard-table .footer_link a:after,
-.aside-leaderboard-table .footer_link html.no-touch.csstransitions nav.main li.watch a:after {
+html.no-touch.csstransitions nav.main li.forum .icon,
+html.no-touch.csstransitions nav.main li.forum .arrow-right.button:after,
+html.no-touch.csstransitions nav.main li.forum body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
+body.custom-form-elements label.radio-as-toggle-button html.no-touch.csstransitions nav.main li.forum input+span.arrow-right:after,
+html.no-touch.csstransitions nav.main li.forum .arrow-left.button:before,
+html.no-touch.csstransitions nav.main li.forum body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
+body.custom-form-elements label.radio-as-toggle-button html.no-touch.csstransitions nav.main li.forum input+span.arrow-left:before,
+html.no-touch.csstransitions nav.main li.forum body.custom-form-elements select+i,
+body.custom-form-elements html.no-touch.csstransitions nav.main li.forum select+i,
+html.no-touch.csstransitions nav.main li.forum .custom-select-wrapper .custom-select-menu label:before,
+.custom-select-wrapper .custom-select-menu html.no-touch.csstransitions nav.main li.forum label:before,
+html.no-touch.csstransitions nav.main li.forum .custom-select-wrapper .custom-select-menu label:after,
+.custom-select-wrapper .custom-select-menu html.no-touch.csstransitions nav.main li.forum label:after,
+html.no-touch.csstransitions nav.main li.forum #back-to-top:before,
+html.no-touch.csstransitions nav.main li.forum .trainer-card-stamps-all a.arrow-right:after,
+.trainer-card-stamps-all html.no-touch.csstransitions nav.main li.forum a.arrow-right:after,
+html.no-touch.csstransitions nav.main li.forum .aside-leaderboard-table .footer_link a:after,
+.aside-leaderboard-table .footer_link html.no-touch.csstransitions nav.main li.forum a:after {
     -webkit-transition: color 0.1s 0 ease;
     -ms-transition: color 0.1s 0 ease;
     -moz-transition: color 0.1s 0 ease;
@@ -11776,7 +11776,7 @@ html.no-touch.csstransitions nav.main li.watch .aside-leaderboard-table .footer_
     transition: color 0.1s 0 ease
 }
 
-html.no-touch.csstransitions nav.main li.watch .title {
+html.no-touch.csstransitions nav.main li.forum .title {
     -webkit-transition: opacity 0 0;
     -ms-transition: opacity 0 0;
     -moz-transition: opacity 0 0;
@@ -11784,7 +11784,7 @@ html.no-touch.csstransitions nav.main li.watch .title {
     transition: opacity 0 0
 }
 
-html.no-touch.csstransitions nav.main li.watch:after {
+html.no-touch.csstransitions nav.main li.forum:after {
     -webkit-transition: background-color 0 0.1s;
     -ms-transition: background-color 0 0.1s;
     -moz-transition: background-color 0 0.1s;
@@ -11792,7 +11792,7 @@ html.no-touch.csstransitions nav.main li.watch:after {
     transition: background-color 0 0.1s
 }
 
-html.no-touch.csstransitions nav.main li.watch:hover:after {
+html.no-touch.csstransitions nav.main li.forum:hover:after {
     -webkit-transition: background-color 0 0;
     -ms-transition: background-color 0 0;
     -moz-transition: background-color 0 0;
@@ -11800,7 +11800,7 @@ html.no-touch.csstransitions nav.main li.watch:hover:after {
     transition: background-color 0 0
 }
 
-html.no-touch.csstransitions nav.main li.watch:hover .title {
+html.no-touch.csstransitions nav.main li.forum:hover .title {
     -webkit-transition: opacity 0.2s 0.1s ease;
     -ms-transition: opacity 0.2s 0.1s ease;
     -moz-transition: opacity 0.2s 0.1s ease;
@@ -11808,161 +11808,161 @@ html.no-touch.csstransitions nav.main li.watch:hover .title {
     transition: opacity 0.2s 0.1s ease
 }
 
-nav.main li.watch.last-item:after {
+nav.main li.forum.last-item:after {
     border-radius: 0 0 8px 0
 }
 
-html.nintendo nav.main li.watch.last-item:after {
+html.nintendo nav.main li.forum.last-item:after {
     border-radius: 0
 }
 
-nav.main li.play:after {
+nav.main li.database:after {
     background-color: #e6bc2f;
     transition: background-color 0.25s, height 0.25s
 }
 
-nav.main li.play .secondary li,
-nav.main li.play .secondary li .icon,
-nav.main li.play .secondary li .arrow-right.button:after,
-nav.main li.play .secondary li body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
-body.custom-form-elements label.radio-as-toggle-button nav.main li.play .secondary li input+span.arrow-right:after,
-nav.main li.play .secondary li .arrow-left.button:before,
-nav.main li.play .secondary li body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
-body.custom-form-elements label.radio-as-toggle-button nav.main li.play .secondary li input+span.arrow-left:before,
-nav.main li.play .secondary li body.custom-form-elements select+i,
-body.custom-form-elements nav.main li.play .secondary li select+i,
-nav.main li.play .secondary li .custom-select-wrapper .custom-select-menu label:before,
-.custom-select-wrapper .custom-select-menu nav.main li.play .secondary li label:before,
-nav.main li.play .secondary li .custom-select-wrapper .custom-select-menu label:after,
-.custom-select-wrapper .custom-select-menu nav.main li.play .secondary li label:after,
-nav.main li.play .secondary li #back-to-top:before,
-nav.main li.play .secondary li .trainer-card-stamps-all a.arrow-right:after,
-.trainer-card-stamps-all nav.main li.play .secondary li a.arrow-right:after,
-nav.main li.play .secondary li .aside-leaderboard-table .footer_link a:after,
-.aside-leaderboard-table .footer_link nav.main li.play .secondary li a:after,
-nav.main li.play .fill {
+nav.main li.database .secondary li,
+nav.main li.database .secondary li .icon,
+nav.main li.database .secondary li .arrow-right.button:after,
+nav.main li.database .secondary li body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
+body.custom-form-elements label.radio-as-toggle-button nav.main li.database .secondary li input+span.arrow-right:after,
+nav.main li.database .secondary li .arrow-left.button:before,
+nav.main li.database .secondary li body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
+body.custom-form-elements label.radio-as-toggle-button nav.main li.database .secondary li input+span.arrow-left:before,
+nav.main li.database .secondary li body.custom-form-elements select+i,
+body.custom-form-elements nav.main li.database .secondary li select+i,
+nav.main li.database .secondary li .custom-select-wrapper .custom-select-menu label:before,
+.custom-select-wrapper .custom-select-menu nav.main li.database .secondary li label:before,
+nav.main li.database .secondary li .custom-select-wrapper .custom-select-menu label:after,
+.custom-select-wrapper .custom-select-menu nav.main li.database .secondary li label:after,
+nav.main li.database .secondary li #back-to-top:before,
+nav.main li.database .secondary li .trainer-card-stamps-all a.arrow-right:after,
+.trainer-card-stamps-all nav.main li.database .secondary li a.arrow-right:after,
+nav.main li.database .secondary li .aside-leaderboard-table .footer_link a:after,
+.aside-leaderboard-table .footer_link nav.main li.database .secondary li a:after,
+nav.main li.database .fill {
     background-color: #e6bc2f
 }
 
-nav.main li.play .secondary li {
+nav.main li.database .secondary li {
     border-bottom: 1px solid #9c7d13
 }
 
-nav.main li.play .tertiary li:first-child {
+nav.main li.database .tertiary li:first-child {
     border-top: 1px solid #9c7d13
 }
 
-nav.main li.play .icon,
-nav.main li.play .arrow-right.button:after,
-nav.main li.play body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
-body.custom-form-elements label.radio-as-toggle-button nav.main li.play input+span.arrow-right:after,
-nav.main li.play .arrow-left.button:before,
-nav.main li.play body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
-body.custom-form-elements label.radio-as-toggle-button nav.main li.play input+span.arrow-left:before,
-nav.main li.play body.custom-form-elements select+i,
-body.custom-form-elements nav.main li.play select+i,
-nav.main li.play .custom-select-wrapper .custom-select-menu label:before,
-.custom-select-wrapper .custom-select-menu nav.main li.play label:before,
-nav.main li.play .custom-select-wrapper .custom-select-menu label:after,
-.custom-select-wrapper .custom-select-menu nav.main li.play label:after,
-nav.main li.play #back-to-top:before,
-nav.main li.play .trainer-card-stamps-all a.arrow-right:after,
-.trainer-card-stamps-all nav.main li.play a.arrow-right:after,
-nav.main li.play .aside-leaderboard-table .footer_link a:after,
-.aside-leaderboard-table .footer_link nav.main li.play a:after {
+nav.main li.database .icon,
+nav.main li.database .arrow-right.button:after,
+nav.main li.database body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
+body.custom-form-elements label.radio-as-toggle-button nav.main li.database input+span.arrow-right:after,
+nav.main li.database .arrow-left.button:before,
+nav.main li.database body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
+body.custom-form-elements label.radio-as-toggle-button nav.main li.database input+span.arrow-left:before,
+nav.main li.database body.custom-form-elements select+i,
+body.custom-form-elements nav.main li.database select+i,
+nav.main li.database .custom-select-wrapper .custom-select-menu label:before,
+.custom-select-wrapper .custom-select-menu nav.main li.database label:before,
+nav.main li.database .custom-select-wrapper .custom-select-menu label:after,
+.custom-select-wrapper .custom-select-menu nav.main li.database label:after,
+nav.main li.database #back-to-top:before,
+nav.main li.database .trainer-card-stamps-all a.arrow-right:after,
+.trainer-card-stamps-all nav.main li.database a.arrow-right:after,
+nav.main li.database .aside-leaderboard-table .footer_link a:after,
+.aside-leaderboard-table .footer_link nav.main li.database a:after {
     color: #e6bc2f
 }
 
-html.no-touch nav.main li.play:hover {
+html.no-touch nav.main li.database:hover {
     background-color: #e6bc2f
 }
 
-html.no-touch nav.main li.play:hover .fill {
+html.no-touch nav.main li.database:hover .fill {
     height: 87px;
     opacity: 1
 }
 
-html.no-touch nav.main li.play:hover .icon,
-html.no-touch nav.main li.play:hover .arrow-right.button:after,
-html.no-touch nav.main li.play:hover body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
-body.custom-form-elements label.radio-as-toggle-button html.no-touch nav.main li.play:hover input+span.arrow-right:after,
-html.no-touch nav.main li.play:hover .arrow-left.button:before,
-html.no-touch nav.main li.play:hover body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
-body.custom-form-elements label.radio-as-toggle-button html.no-touch nav.main li.play:hover input+span.arrow-left:before,
-html.no-touch nav.main li.play:hover body.custom-form-elements select+i,
-body.custom-form-elements html.no-touch nav.main li.play:hover select+i,
-html.no-touch nav.main li.play:hover .custom-select-wrapper .custom-select-menu label:before,
-.custom-select-wrapper .custom-select-menu html.no-touch nav.main li.play:hover label:before,
-html.no-touch nav.main li.play:hover .custom-select-wrapper .custom-select-menu label:after,
-.custom-select-wrapper .custom-select-menu html.no-touch nav.main li.play:hover label:after,
-html.no-touch nav.main li.play:hover #back-to-top:before,
-html.no-touch nav.main li.play:hover .trainer-card-stamps-all a.arrow-right:after,
-.trainer-card-stamps-all html.no-touch nav.main li.play:hover a.arrow-right:after,
-html.no-touch nav.main li.play:hover .aside-leaderboard-table .footer_link a:after,
-.aside-leaderboard-table .footer_link html.no-touch nav.main li.play:hover a:after {
+html.no-touch nav.main li.database:hover .icon,
+html.no-touch nav.main li.database:hover .arrow-right.button:after,
+html.no-touch nav.main li.database:hover body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
+body.custom-form-elements label.radio-as-toggle-button html.no-touch nav.main li.database:hover input+span.arrow-right:after,
+html.no-touch nav.main li.database:hover .arrow-left.button:before,
+html.no-touch nav.main li.database:hover body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
+body.custom-form-elements label.radio-as-toggle-button html.no-touch nav.main li.database:hover input+span.arrow-left:before,
+html.no-touch nav.main li.database:hover body.custom-form-elements select+i,
+body.custom-form-elements html.no-touch nav.main li.database:hover select+i,
+html.no-touch nav.main li.database:hover .custom-select-wrapper .custom-select-menu label:before,
+.custom-select-wrapper .custom-select-menu html.no-touch nav.main li.database:hover label:before,
+html.no-touch nav.main li.database:hover .custom-select-wrapper .custom-select-menu label:after,
+.custom-select-wrapper .custom-select-menu html.no-touch nav.main li.database:hover label:after,
+html.no-touch nav.main li.database:hover #back-to-top:before,
+html.no-touch nav.main li.database:hover .trainer-card-stamps-all a.arrow-right:after,
+.trainer-card-stamps-all html.no-touch nav.main li.database:hover a.arrow-right:after,
+html.no-touch nav.main li.database:hover .aside-leaderboard-table .footer_link a:after,
+.aside-leaderboard-table .footer_link html.no-touch nav.main li.database:hover a:after {
     color: #fff
 }
 
-html.no-touch nav.main li.play:hover:after {
+html.no-touch nav.main li.database:hover:after {
     background-color: #e6bc2f
 }
 
-nav.main li.play a.hover,
-nav.main li.play a.active {
+nav.main li.database a.hover,
+nav.main li.database a.active {
     background-color: #e6bc2f
 }
 
-nav.main li.play a.hover:after,
-nav.main li.play a.active:after {
+nav.main li.database a.hover:after,
+nav.main li.database a.active:after {
     background-color: #e6bc2f
 }
 
-nav.main li.play a.hover .fill,
-nav.main li.play a.active .fill {
+nav.main li.database a.hover .fill,
+nav.main li.database a.active .fill {
     height: 87px;
     opacity: 1
 }
 
-nav.main li.play a.hover .icon,
-nav.main li.play a.hover .arrow-right.button:after,
-nav.main li.play a.hover body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
-body.custom-form-elements label.radio-as-toggle-button nav.main li.play a.hover input+span.arrow-right:after,
-nav.main li.play a.hover .arrow-left.button:before,
-nav.main li.play a.hover body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
-body.custom-form-elements label.radio-as-toggle-button nav.main li.play a.hover input+span.arrow-left:before,
-nav.main li.play a.hover body.custom-form-elements select+i,
-body.custom-form-elements nav.main li.play a.hover select+i,
-nav.main li.play a.hover .custom-select-wrapper .custom-select-menu label:before,
-.custom-select-wrapper .custom-select-menu nav.main li.play a.hover label:before,
-nav.main li.play a.hover .custom-select-wrapper .custom-select-menu label:after,
-.custom-select-wrapper .custom-select-menu nav.main li.play a.hover label:after,
-nav.main li.play a.hover #back-to-top:before,
-nav.main li.play a.hover .trainer-card-stamps-all a.arrow-right:after,
-.trainer-card-stamps-all nav.main li.play a.hover a.arrow-right:after,
-nav.main li.play a.hover .aside-leaderboard-table .footer_link a:after,
-.aside-leaderboard-table .footer_link nav.main li.play a.hover a:after,
-nav.main li.play a.active .icon,
-nav.main li.play a.active .arrow-right.button:after,
-nav.main li.play a.active body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
-body.custom-form-elements label.radio-as-toggle-button nav.main li.play a.active input+span.arrow-right:after,
-nav.main li.play a.active .arrow-left.button:before,
-nav.main li.play a.active body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
-body.custom-form-elements label.radio-as-toggle-button nav.main li.play a.active input+span.arrow-left:before,
-nav.main li.play a.active body.custom-form-elements select+i,
-body.custom-form-elements nav.main li.play a.active select+i,
-nav.main li.play a.active .custom-select-wrapper .custom-select-menu label:before,
-.custom-select-wrapper .custom-select-menu nav.main li.play a.active label:before,
-nav.main li.play a.active .custom-select-wrapper .custom-select-menu label:after,
-.custom-select-wrapper .custom-select-menu nav.main li.play a.active label:after,
-nav.main li.play a.active #back-to-top:before,
-nav.main li.play a.active .trainer-card-stamps-all a.arrow-right:after,
-.trainer-card-stamps-all nav.main li.play a.active a.arrow-right:after,
-nav.main li.play a.active .aside-leaderboard-table .footer_link a:after,
-.aside-leaderboard-table .footer_link nav.main li.play a.active a:after {
+nav.main li.database a.hover .icon,
+nav.main li.database a.hover .arrow-right.button:after,
+nav.main li.database a.hover body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
+body.custom-form-elements label.radio-as-toggle-button nav.main li.database a.hover input+span.arrow-right:after,
+nav.main li.database a.hover .arrow-left.button:before,
+nav.main li.database a.hover body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
+body.custom-form-elements label.radio-as-toggle-button nav.main li.database a.hover input+span.arrow-left:before,
+nav.main li.database a.hover body.custom-form-elements select+i,
+body.custom-form-elements nav.main li.database a.hover select+i,
+nav.main li.database a.hover .custom-select-wrapper .custom-select-menu label:before,
+.custom-select-wrapper .custom-select-menu nav.main li.database a.hover label:before,
+nav.main li.database a.hover .custom-select-wrapper .custom-select-menu label:after,
+.custom-select-wrapper .custom-select-menu nav.main li.database a.hover label:after,
+nav.main li.database a.hover #back-to-top:before,
+nav.main li.database a.hover .trainer-card-stamps-all a.arrow-right:after,
+.trainer-card-stamps-all nav.main li.database a.hover a.arrow-right:after,
+nav.main li.database a.hover .aside-leaderboard-table .footer_link a:after,
+.aside-leaderboard-table .footer_link nav.main li.database a.hover a:after,
+nav.main li.database a.active .icon,
+nav.main li.database a.active .arrow-right.button:after,
+nav.main li.database a.active body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
+body.custom-form-elements label.radio-as-toggle-button nav.main li.database a.active input+span.arrow-right:after,
+nav.main li.database a.active .arrow-left.button:before,
+nav.main li.database a.active body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
+body.custom-form-elements label.radio-as-toggle-button nav.main li.database a.active input+span.arrow-left:before,
+nav.main li.database a.active body.custom-form-elements select+i,
+body.custom-form-elements nav.main li.database a.active select+i,
+nav.main li.database a.active .custom-select-wrapper .custom-select-menu label:before,
+.custom-select-wrapper .custom-select-menu nav.main li.database a.active label:before,
+nav.main li.database a.active .custom-select-wrapper .custom-select-menu label:after,
+.custom-select-wrapper .custom-select-menu nav.main li.database a.active label:after,
+nav.main li.database a.active #back-to-top:before,
+nav.main li.database a.active .trainer-card-stamps-all a.arrow-right:after,
+.trainer-card-stamps-all nav.main li.database a.active a.arrow-right:after,
+nav.main li.database a.active .aside-leaderboard-table .footer_link a:after,
+.aside-leaderboard-table .footer_link nav.main li.database a.active a:after {
     color: #fff
 }
 
-html.no-touch.csstransitions nav.main li.play .fill {
+html.no-touch.csstransitions nav.main li.database .fill {
     -webkit-transition: height 0.2s 0 ease;
     -ms-transition: height 0.2s 0 ease;
     -moz-transition: height 0.2s 0 ease;
@@ -11970,24 +11970,24 @@ html.no-touch.csstransitions nav.main li.play .fill {
     transition: height 0.2s 0 ease
 }
 
-html.no-touch.csstransitions nav.main li.play .icon,
-html.no-touch.csstransitions nav.main li.play .arrow-right.button:after,
-html.no-touch.csstransitions nav.main li.play body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
-body.custom-form-elements label.radio-as-toggle-button html.no-touch.csstransitions nav.main li.play input+span.arrow-right:after,
-html.no-touch.csstransitions nav.main li.play .arrow-left.button:before,
-html.no-touch.csstransitions nav.main li.play body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
-body.custom-form-elements label.radio-as-toggle-button html.no-touch.csstransitions nav.main li.play input+span.arrow-left:before,
-html.no-touch.csstransitions nav.main li.play body.custom-form-elements select+i,
-body.custom-form-elements html.no-touch.csstransitions nav.main li.play select+i,
-html.no-touch.csstransitions nav.main li.play .custom-select-wrapper .custom-select-menu label:before,
-.custom-select-wrapper .custom-select-menu html.no-touch.csstransitions nav.main li.play label:before,
-html.no-touch.csstransitions nav.main li.play .custom-select-wrapper .custom-select-menu label:after,
-.custom-select-wrapper .custom-select-menu html.no-touch.csstransitions nav.main li.play label:after,
-html.no-touch.csstransitions nav.main li.play #back-to-top:before,
-html.no-touch.csstransitions nav.main li.play .trainer-card-stamps-all a.arrow-right:after,
-.trainer-card-stamps-all html.no-touch.csstransitions nav.main li.play a.arrow-right:after,
-html.no-touch.csstransitions nav.main li.play .aside-leaderboard-table .footer_link a:after,
-.aside-leaderboard-table .footer_link html.no-touch.csstransitions nav.main li.play a:after {
+html.no-touch.csstransitions nav.main li.database .icon,
+html.no-touch.csstransitions nav.main li.database .arrow-right.button:after,
+html.no-touch.csstransitions nav.main li.database body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
+body.custom-form-elements label.radio-as-toggle-button html.no-touch.csstransitions nav.main li.database input+span.arrow-right:after,
+html.no-touch.csstransitions nav.main li.database .arrow-left.button:before,
+html.no-touch.csstransitions nav.main li.database body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
+body.custom-form-elements label.radio-as-toggle-button html.no-touch.csstransitions nav.main li.database input+span.arrow-left:before,
+html.no-touch.csstransitions nav.main li.database body.custom-form-elements select+i,
+body.custom-form-elements html.no-touch.csstransitions nav.main li.database select+i,
+html.no-touch.csstransitions nav.main li.database .custom-select-wrapper .custom-select-menu label:before,
+.custom-select-wrapper .custom-select-menu html.no-touch.csstransitions nav.main li.database label:before,
+html.no-touch.csstransitions nav.main li.database .custom-select-wrapper .custom-select-menu label:after,
+.custom-select-wrapper .custom-select-menu html.no-touch.csstransitions nav.main li.database label:after,
+html.no-touch.csstransitions nav.main li.database #back-to-top:before,
+html.no-touch.csstransitions nav.main li.database .trainer-card-stamps-all a.arrow-right:after,
+.trainer-card-stamps-all html.no-touch.csstransitions nav.main li.database a.arrow-right:after,
+html.no-touch.csstransitions nav.main li.database .aside-leaderboard-table .footer_link a:after,
+.aside-leaderboard-table .footer_link html.no-touch.csstransitions nav.main li.database a:after {
     -webkit-transition: color 0.1s 0 ease;
     -ms-transition: color 0.1s 0 ease;
     -moz-transition: color 0.1s 0 ease;
@@ -11995,7 +11995,7 @@ html.no-touch.csstransitions nav.main li.play .aside-leaderboard-table .footer_l
     transition: color 0.1s 0 ease
 }
 
-html.no-touch.csstransitions nav.main li.play .title {
+html.no-touch.csstransitions nav.main li.database .title {
     -webkit-transition: opacity 0 0;
     -ms-transition: opacity 0 0;
     -moz-transition: opacity 0 0;
@@ -12003,7 +12003,7 @@ html.no-touch.csstransitions nav.main li.play .title {
     transition: opacity 0 0
 }
 
-html.no-touch.csstransitions nav.main li.play:after {
+html.no-touch.csstransitions nav.main li.database:after {
     -webkit-transition: background-color 0 0.1s;
     -ms-transition: background-color 0 0.1s;
     -moz-transition: background-color 0 0.1s;
@@ -12011,7 +12011,7 @@ html.no-touch.csstransitions nav.main li.play:after {
     transition: background-color 0 0.1s
 }
 
-html.no-touch.csstransitions nav.main li.play:hover:after {
+html.no-touch.csstransitions nav.main li.database:hover:after {
     -webkit-transition: background-color 0 0;
     -ms-transition: background-color 0 0;
     -moz-transition: background-color 0 0;
@@ -12019,7 +12019,7 @@ html.no-touch.csstransitions nav.main li.play:hover:after {
     transition: background-color 0 0
 }
 
-html.no-touch.csstransitions nav.main li.play:hover .title {
+html.no-touch.csstransitions nav.main li.database:hover .title {
     -webkit-transition: opacity 0.2s 0.1s ease;
     -ms-transition: opacity 0.2s 0.1s ease;
     -moz-transition: opacity 0.2s 0.1s ease;
@@ -12027,161 +12027,161 @@ html.no-touch.csstransitions nav.main li.play:hover .title {
     transition: opacity 0.2s 0.1s ease
 }
 
-nav.main li.play.last-item:after {
+nav.main li.database.last-item:after {
     border-radius: 0 0 8px 0
 }
 
-html.nintendo nav.main li.play.last-item:after {
+html.nintendo nav.main li.database.last-item:after {
     border-radius: 0
 }
 
-nav.main li.trade:after {
+nav.main li.strategy:after {
     background-color: #30a7d7;
     transition: background-color 0.25s, height 0.25s
 }
 
-nav.main li.trade .secondary li,
-nav.main li.trade .secondary li .icon,
-nav.main li.trade .secondary li .arrow-right.button:after,
-nav.main li.trade .secondary li body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
-body.custom-form-elements label.radio-as-toggle-button nav.main li.trade .secondary li input+span.arrow-right:after,
-nav.main li.trade .secondary li .arrow-left.button:before,
-nav.main li.trade .secondary li body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
-body.custom-form-elements label.radio-as-toggle-button nav.main li.trade .secondary li input+span.arrow-left:before,
-nav.main li.trade .secondary li body.custom-form-elements select+i,
-body.custom-form-elements nav.main li.trade .secondary li select+i,
-nav.main li.trade .secondary li .custom-select-wrapper .custom-select-menu label:before,
-.custom-select-wrapper .custom-select-menu nav.main li.trade .secondary li label:before,
-nav.main li.trade .secondary li .custom-select-wrapper .custom-select-menu label:after,
-.custom-select-wrapper .custom-select-menu nav.main li.trade .secondary li label:after,
-nav.main li.trade .secondary li #back-to-top:before,
-nav.main li.trade .secondary li .trainer-card-stamps-all a.arrow-right:after,
-.trainer-card-stamps-all nav.main li.trade .secondary li a.arrow-right:after,
-nav.main li.trade .secondary li .aside-leaderboard-table .footer_link a:after,
-.aside-leaderboard-table .footer_link nav.main li.trade .secondary li a:after,
-nav.main li.trade .fill {
+nav.main li.strategy .secondary li,
+nav.main li.strategy .secondary li .icon,
+nav.main li.strategy .secondary li .arrow-right.button:after,
+nav.main li.strategy .secondary li body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
+body.custom-form-elements label.radio-as-toggle-button nav.main li.strategy .secondary li input+span.arrow-right:after,
+nav.main li.strategy .secondary li .arrow-left.button:before,
+nav.main li.strategy .secondary li body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
+body.custom-form-elements label.radio-as-toggle-button nav.main li.strategy .secondary li input+span.arrow-left:before,
+nav.main li.strategy .secondary li body.custom-form-elements select+i,
+body.custom-form-elements nav.main li.strategy .secondary li select+i,
+nav.main li.strategy .secondary li .custom-select-wrapper .custom-select-menu label:before,
+.custom-select-wrapper .custom-select-menu nav.main li.strategy .secondary li label:before,
+nav.main li.strategy .secondary li .custom-select-wrapper .custom-select-menu label:after,
+.custom-select-wrapper .custom-select-menu nav.main li.strategy .secondary li label:after,
+nav.main li.strategy .secondary li #back-to-top:before,
+nav.main li.strategy .secondary li .trainer-card-stamps-all a.arrow-right:after,
+.trainer-card-stamps-all nav.main li.strategy .secondary li a.arrow-right:after,
+nav.main li.strategy .secondary li .aside-leaderboard-table .footer_link a:after,
+.aside-leaderboard-table .footer_link nav.main li.strategy .secondary li a:after,
+nav.main li.strategy .fill {
     background-color: #30a7d7
 }
 
-nav.main li.trade .secondary li {
+nav.main li.strategy .secondary li {
     border-bottom: 1px solid #1a6887
 }
 
-nav.main li.trade .tertiary li:first-child {
+nav.main li.strategy .tertiary li:first-child {
     border-top: 1px solid #1a6887
 }
 
-nav.main li.trade .icon,
-nav.main li.trade .arrow-right.button:after,
-nav.main li.trade body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
-body.custom-form-elements label.radio-as-toggle-button nav.main li.trade input+span.arrow-right:after,
-nav.main li.trade .arrow-left.button:before,
-nav.main li.trade body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
-body.custom-form-elements label.radio-as-toggle-button nav.main li.trade input+span.arrow-left:before,
-nav.main li.trade body.custom-form-elements select+i,
-body.custom-form-elements nav.main li.trade select+i,
-nav.main li.trade .custom-select-wrapper .custom-select-menu label:before,
-.custom-select-wrapper .custom-select-menu nav.main li.trade label:before,
-nav.main li.trade .custom-select-wrapper .custom-select-menu label:after,
-.custom-select-wrapper .custom-select-menu nav.main li.trade label:after,
-nav.main li.trade #back-to-top:before,
-nav.main li.trade .trainer-card-stamps-all a.arrow-right:after,
-.trainer-card-stamps-all nav.main li.trade a.arrow-right:after,
-nav.main li.trade .aside-leaderboard-table .footer_link a:after,
-.aside-leaderboard-table .footer_link nav.main li.trade a:after {
+nav.main li.strategy .icon,
+nav.main li.strategy .arrow-right.button:after,
+nav.main li.strategy body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
+body.custom-form-elements label.radio-as-toggle-button nav.main li.strategy input+span.arrow-right:after,
+nav.main li.strategy .arrow-left.button:before,
+nav.main li.strategy body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
+body.custom-form-elements label.radio-as-toggle-button nav.main li.strategy input+span.arrow-left:before,
+nav.main li.strategy body.custom-form-elements select+i,
+body.custom-form-elements nav.main li.strategy select+i,
+nav.main li.strategy .custom-select-wrapper .custom-select-menu label:before,
+.custom-select-wrapper .custom-select-menu nav.main li.strategy label:before,
+nav.main li.strategy .custom-select-wrapper .custom-select-menu label:after,
+.custom-select-wrapper .custom-select-menu nav.main li.strategy label:after,
+nav.main li.strategy #back-to-top:before,
+nav.main li.strategy .trainer-card-stamps-all a.arrow-right:after,
+.trainer-card-stamps-all nav.main li.strategy a.arrow-right:after,
+nav.main li.strategy .aside-leaderboard-table .footer_link a:after,
+.aside-leaderboard-table .footer_link nav.main li.strategy a:after {
     color: #30a7d7
 }
 
-html.no-touch nav.main li.trade:hover {
+html.no-touch nav.main li.strategy:hover {
     background-color: #30a7d7
 }
 
-html.no-touch nav.main li.trade:hover .fill {
+html.no-touch nav.main li.strategy:hover .fill {
     height: 87px;
     opacity: 1
 }
 
-html.no-touch nav.main li.trade:hover .icon,
-html.no-touch nav.main li.trade:hover .arrow-right.button:after,
-html.no-touch nav.main li.trade:hover body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
-body.custom-form-elements label.radio-as-toggle-button html.no-touch nav.main li.trade:hover input+span.arrow-right:after,
-html.no-touch nav.main li.trade:hover .arrow-left.button:before,
-html.no-touch nav.main li.trade:hover body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
-body.custom-form-elements label.radio-as-toggle-button html.no-touch nav.main li.trade:hover input+span.arrow-left:before,
-html.no-touch nav.main li.trade:hover body.custom-form-elements select+i,
-body.custom-form-elements html.no-touch nav.main li.trade:hover select+i,
-html.no-touch nav.main li.trade:hover .custom-select-wrapper .custom-select-menu label:before,
-.custom-select-wrapper .custom-select-menu html.no-touch nav.main li.trade:hover label:before,
-html.no-touch nav.main li.trade:hover .custom-select-wrapper .custom-select-menu label:after,
-.custom-select-wrapper .custom-select-menu html.no-touch nav.main li.trade:hover label:after,
-html.no-touch nav.main li.trade:hover #back-to-top:before,
-html.no-touch nav.main li.trade:hover .trainer-card-stamps-all a.arrow-right:after,
-.trainer-card-stamps-all html.no-touch nav.main li.trade:hover a.arrow-right:after,
-html.no-touch nav.main li.trade:hover .aside-leaderboard-table .footer_link a:after,
-.aside-leaderboard-table .footer_link html.no-touch nav.main li.trade:hover a:after {
+html.no-touch nav.main li.strategy:hover .icon,
+html.no-touch nav.main li.strategy:hover .arrow-right.button:after,
+html.no-touch nav.main li.strategy:hover body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
+body.custom-form-elements label.radio-as-toggle-button html.no-touch nav.main li.strategy:hover input+span.arrow-right:after,
+html.no-touch nav.main li.strategy:hover .arrow-left.button:before,
+html.no-touch nav.main li.strategy:hover body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
+body.custom-form-elements label.radio-as-toggle-button html.no-touch nav.main li.strategy:hover input+span.arrow-left:before,
+html.no-touch nav.main li.strategy:hover body.custom-form-elements select+i,
+body.custom-form-elements html.no-touch nav.main li.strategy:hover select+i,
+html.no-touch nav.main li.strategy:hover .custom-select-wrapper .custom-select-menu label:before,
+.custom-select-wrapper .custom-select-menu html.no-touch nav.main li.strategy:hover label:before,
+html.no-touch nav.main li.strategy:hover .custom-select-wrapper .custom-select-menu label:after,
+.custom-select-wrapper .custom-select-menu html.no-touch nav.main li.strategy:hover label:after,
+html.no-touch nav.main li.strategy:hover #back-to-top:before,
+html.no-touch nav.main li.strategy:hover .trainer-card-stamps-all a.arrow-right:after,
+.trainer-card-stamps-all html.no-touch nav.main li.strategy:hover a.arrow-right:after,
+html.no-touch nav.main li.strategy:hover .aside-leaderboard-table .footer_link a:after,
+.aside-leaderboard-table .footer_link html.no-touch nav.main li.strategy:hover a:after {
     color: #fff
 }
 
-html.no-touch nav.main li.trade:hover:after {
+html.no-touch nav.main li.strategy:hover:after {
     background-color: #30a7d7
 }
 
-nav.main li.trade a.hover,
-nav.main li.trade a.active {
+nav.main li.strategy a.hover,
+nav.main li.strategy a.active {
     background-color: #30a7d7
 }
 
-nav.main li.trade a.hover:after,
-nav.main li.trade a.active:after {
+nav.main li.strategy a.hover:after,
+nav.main li.strategy a.active:after {
     background-color: #30a7d7
 }
 
-nav.main li.trade a.hover .fill,
-nav.main li.trade a.active .fill {
+nav.main li.strategy a.hover .fill,
+nav.main li.strategy a.active .fill {
     height: 87px;
     opacity: 1
 }
 
-nav.main li.trade a.hover .icon,
-nav.main li.trade a.hover .arrow-right.button:after,
-nav.main li.trade a.hover body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
-body.custom-form-elements label.radio-as-toggle-button nav.main li.trade a.hover input+span.arrow-right:after,
-nav.main li.trade a.hover .arrow-left.button:before,
-nav.main li.trade a.hover body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
-body.custom-form-elements label.radio-as-toggle-button nav.main li.trade a.hover input+span.arrow-left:before,
-nav.main li.trade a.hover body.custom-form-elements select+i,
-body.custom-form-elements nav.main li.trade a.hover select+i,
-nav.main li.trade a.hover .custom-select-wrapper .custom-select-menu label:before,
-.custom-select-wrapper .custom-select-menu nav.main li.trade a.hover label:before,
-nav.main li.trade a.hover .custom-select-wrapper .custom-select-menu label:after,
-.custom-select-wrapper .custom-select-menu nav.main li.trade a.hover label:after,
-nav.main li.trade a.hover #back-to-top:before,
-nav.main li.trade a.hover .trainer-card-stamps-all a.arrow-right:after,
-.trainer-card-stamps-all nav.main li.trade a.hover a.arrow-right:after,
-nav.main li.trade a.hover .aside-leaderboard-table .footer_link a:after,
-.aside-leaderboard-table .footer_link nav.main li.trade a.hover a:after,
-nav.main li.trade a.active .icon,
-nav.main li.trade a.active .arrow-right.button:after,
-nav.main li.trade a.active body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
-body.custom-form-elements label.radio-as-toggle-button nav.main li.trade a.active input+span.arrow-right:after,
-nav.main li.trade a.active .arrow-left.button:before,
-nav.main li.trade a.active body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
-body.custom-form-elements label.radio-as-toggle-button nav.main li.trade a.active input+span.arrow-left:before,
-nav.main li.trade a.active body.custom-form-elements select+i,
-body.custom-form-elements nav.main li.trade a.active select+i,
-nav.main li.trade a.active .custom-select-wrapper .custom-select-menu label:before,
-.custom-select-wrapper .custom-select-menu nav.main li.trade a.active label:before,
-nav.main li.trade a.active .custom-select-wrapper .custom-select-menu label:after,
-.custom-select-wrapper .custom-select-menu nav.main li.trade a.active label:after,
-nav.main li.trade a.active #back-to-top:before,
-nav.main li.trade a.active .trainer-card-stamps-all a.arrow-right:after,
-.trainer-card-stamps-all nav.main li.trade a.active a.arrow-right:after,
-nav.main li.trade a.active .aside-leaderboard-table .footer_link a:after,
-.aside-leaderboard-table .footer_link nav.main li.trade a.active a:after {
+nav.main li.strategy a.hover .icon,
+nav.main li.strategy a.hover .arrow-right.button:after,
+nav.main li.strategy a.hover body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
+body.custom-form-elements label.radio-as-toggle-button nav.main li.strategy a.hover input+span.arrow-right:after,
+nav.main li.strategy a.hover .arrow-left.button:before,
+nav.main li.strategy a.hover body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
+body.custom-form-elements label.radio-as-toggle-button nav.main li.strategy a.hover input+span.arrow-left:before,
+nav.main li.strategy a.hover body.custom-form-elements select+i,
+body.custom-form-elements nav.main li.strategy a.hover select+i,
+nav.main li.strategy a.hover .custom-select-wrapper .custom-select-menu label:before,
+.custom-select-wrapper .custom-select-menu nav.main li.strategy a.hover label:before,
+nav.main li.strategy a.hover .custom-select-wrapper .custom-select-menu label:after,
+.custom-select-wrapper .custom-select-menu nav.main li.strategy a.hover label:after,
+nav.main li.strategy a.hover #back-to-top:before,
+nav.main li.strategy a.hover .trainer-card-stamps-all a.arrow-right:after,
+.trainer-card-stamps-all nav.main li.strategy a.hover a.arrow-right:after,
+nav.main li.strategy a.hover .aside-leaderboard-table .footer_link a:after,
+.aside-leaderboard-table .footer_link nav.main li.strategy a.hover a:after,
+nav.main li.strategy a.active .icon,
+nav.main li.strategy a.active .arrow-right.button:after,
+nav.main li.strategy a.active body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
+body.custom-form-elements label.radio-as-toggle-button nav.main li.strategy a.active input+span.arrow-right:after,
+nav.main li.strategy a.active .arrow-left.button:before,
+nav.main li.strategy a.active body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
+body.custom-form-elements label.radio-as-toggle-button nav.main li.strategy a.active input+span.arrow-left:before,
+nav.main li.strategy a.active body.custom-form-elements select+i,
+body.custom-form-elements nav.main li.strategy a.active select+i,
+nav.main li.strategy a.active .custom-select-wrapper .custom-select-menu label:before,
+.custom-select-wrapper .custom-select-menu nav.main li.strategy a.active label:before,
+nav.main li.strategy a.active .custom-select-wrapper .custom-select-menu label:after,
+.custom-select-wrapper .custom-select-menu nav.main li.strategy a.active label:after,
+nav.main li.strategy a.active #back-to-top:before,
+nav.main li.strategy a.active .trainer-card-stamps-all a.arrow-right:after,
+.trainer-card-stamps-all nav.main li.strategy a.active a.arrow-right:after,
+nav.main li.strategy a.active .aside-leaderboard-table .footer_link a:after,
+.aside-leaderboard-table .footer_link nav.main li.strategy a.active a:after {
     color: #fff
 }
 
-html.no-touch.csstransitions nav.main li.trade .fill {
+html.no-touch.csstransitions nav.main li.strategy .fill {
     -webkit-transition: height 0.2s 0 ease;
     -ms-transition: height 0.2s 0 ease;
     -moz-transition: height 0.2s 0 ease;
@@ -12189,24 +12189,24 @@ html.no-touch.csstransitions nav.main li.trade .fill {
     transition: height 0.2s 0 ease
 }
 
-html.no-touch.csstransitions nav.main li.trade .icon,
-html.no-touch.csstransitions nav.main li.trade .arrow-right.button:after,
-html.no-touch.csstransitions nav.main li.trade body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
-body.custom-form-elements label.radio-as-toggle-button html.no-touch.csstransitions nav.main li.trade input+span.arrow-right:after,
-html.no-touch.csstransitions nav.main li.trade .arrow-left.button:before,
-html.no-touch.csstransitions nav.main li.trade body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
-body.custom-form-elements label.radio-as-toggle-button html.no-touch.csstransitions nav.main li.trade input+span.arrow-left:before,
-html.no-touch.csstransitions nav.main li.trade body.custom-form-elements select+i,
-body.custom-form-elements html.no-touch.csstransitions nav.main li.trade select+i,
-html.no-touch.csstransitions nav.main li.trade .custom-select-wrapper .custom-select-menu label:before,
-.custom-select-wrapper .custom-select-menu html.no-touch.csstransitions nav.main li.trade label:before,
-html.no-touch.csstransitions nav.main li.trade .custom-select-wrapper .custom-select-menu label:after,
-.custom-select-wrapper .custom-select-menu html.no-touch.csstransitions nav.main li.trade label:after,
-html.no-touch.csstransitions nav.main li.trade #back-to-top:before,
-html.no-touch.csstransitions nav.main li.trade .trainer-card-stamps-all a.arrow-right:after,
-.trainer-card-stamps-all html.no-touch.csstransitions nav.main li.trade a.arrow-right:after,
-html.no-touch.csstransitions nav.main li.trade .aside-leaderboard-table .footer_link a:after,
-.aside-leaderboard-table .footer_link html.no-touch.csstransitions nav.main li.trade a:after {
+html.no-touch.csstransitions nav.main li.strategy .icon,
+html.no-touch.csstransitions nav.main li.strategy .arrow-right.button:after,
+html.no-touch.csstransitions nav.main li.strategy body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
+body.custom-form-elements label.radio-as-toggle-button html.no-touch.csstransitions nav.main li.strategy input+span.arrow-right:after,
+html.no-touch.csstransitions nav.main li.strategy .arrow-left.button:before,
+html.no-touch.csstransitions nav.main li.strategy body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
+body.custom-form-elements label.radio-as-toggle-button html.no-touch.csstransitions nav.main li.strategy input+span.arrow-left:before,
+html.no-touch.csstransitions nav.main li.strategy body.custom-form-elements select+i,
+body.custom-form-elements html.no-touch.csstransitions nav.main li.strategy select+i,
+html.no-touch.csstransitions nav.main li.strategy .custom-select-wrapper .custom-select-menu label:before,
+.custom-select-wrapper .custom-select-menu html.no-touch.csstransitions nav.main li.strategy label:before,
+html.no-touch.csstransitions nav.main li.strategy .custom-select-wrapper .custom-select-menu label:after,
+.custom-select-wrapper .custom-select-menu html.no-touch.csstransitions nav.main li.strategy label:after,
+html.no-touch.csstransitions nav.main li.strategy #back-to-top:before,
+html.no-touch.csstransitions nav.main li.strategy .trainer-card-stamps-all a.arrow-right:after,
+.trainer-card-stamps-all html.no-touch.csstransitions nav.main li.strategy a.arrow-right:after,
+html.no-touch.csstransitions nav.main li.strategy .aside-leaderboard-table .footer_link a:after,
+.aside-leaderboard-table .footer_link html.no-touch.csstransitions nav.main li.strategy a:after {
     -webkit-transition: color 0.1s 0 ease;
     -ms-transition: color 0.1s 0 ease;
     -moz-transition: color 0.1s 0 ease;
@@ -12214,7 +12214,7 @@ html.no-touch.csstransitions nav.main li.trade .aside-leaderboard-table .footer_
     transition: color 0.1s 0 ease
 }
 
-html.no-touch.csstransitions nav.main li.trade .title {
+html.no-touch.csstransitions nav.main li.strategy .title {
     -webkit-transition: opacity 0 0;
     -ms-transition: opacity 0 0;
     -moz-transition: opacity 0 0;
@@ -12222,7 +12222,7 @@ html.no-touch.csstransitions nav.main li.trade .title {
     transition: opacity 0 0
 }
 
-html.no-touch.csstransitions nav.main li.trade:after {
+html.no-touch.csstransitions nav.main li.strategy:after {
     -webkit-transition: background-color 0 0.1s;
     -ms-transition: background-color 0 0.1s;
     -moz-transition: background-color 0 0.1s;
@@ -12230,7 +12230,7 @@ html.no-touch.csstransitions nav.main li.trade:after {
     transition: background-color 0 0.1s
 }
 
-html.no-touch.csstransitions nav.main li.trade:hover:after {
+html.no-touch.csstransitions nav.main li.strategy:hover:after {
     -webkit-transition: background-color 0 0;
     -ms-transition: background-color 0 0;
     -moz-transition: background-color 0 0;
@@ -12238,7 +12238,7 @@ html.no-touch.csstransitions nav.main li.trade:hover:after {
     transition: background-color 0 0
 }
 
-html.no-touch.csstransitions nav.main li.trade:hover .title {
+html.no-touch.csstransitions nav.main li.strategy:hover .title {
     -webkit-transition: opacity 0.2s 0.1s ease;
     -ms-transition: opacity 0.2s 0.1s ease;
     -moz-transition: opacity 0.2s 0.1s ease;
@@ -12246,161 +12246,161 @@ html.no-touch.csstransitions nav.main li.trade:hover .title {
     transition: opacity 0.2s 0.1s ease
 }
 
-nav.main li.trade.last-item:after {
+nav.main li.strategy.last-item:after {
     border-radius: 0 0 8px 0
 }
 
-html.nintendo nav.main li.trade.last-item:after {
+html.nintendo nav.main li.strategy.last-item:after {
     border-radius: 0
 }
 
-nav.main li.game:after {
+nav.main li.link:after {
     background-color: #1b53ba;
     transition: background-color 0.25s, height 0.25s
 }
 
-nav.main li.game .secondary li,
-nav.main li.game .secondary li .icon,
-nav.main li.game .secondary li .arrow-right.button:after,
-nav.main li.game .secondary li body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
-body.custom-form-elements label.radio-as-toggle-button nav.main li.game .secondary li input+span.arrow-right:after,
-nav.main li.game .secondary li .arrow-left.button:before,
-nav.main li.game .secondary li body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
-body.custom-form-elements label.radio-as-toggle-button nav.main li.game .secondary li input+span.arrow-left:before,
-nav.main li.game .secondary li body.custom-form-elements select+i,
-body.custom-form-elements nav.main li.game .secondary li select+i,
-nav.main li.game .secondary li .custom-select-wrapper .custom-select-menu label:before,
-.custom-select-wrapper .custom-select-menu nav.main li.game .secondary li label:before,
-nav.main li.game .secondary li .custom-select-wrapper .custom-select-menu label:after,
-.custom-select-wrapper .custom-select-menu nav.main li.game .secondary li label:after,
-nav.main li.game .secondary li #back-to-top:before,
-nav.main li.game .secondary li .trainer-card-stamps-all a.arrow-right:after,
-.trainer-card-stamps-all nav.main li.game .secondary li a.arrow-right:after,
-nav.main li.game .secondary li .aside-leaderboard-table .footer_link a:after,
-.aside-leaderboard-table .footer_link nav.main li.game .secondary li a:after,
-nav.main li.game .fill {
+nav.main li.link .secondary li,
+nav.main li.link .secondary li .icon,
+nav.main li.link .secondary li .arrow-right.button:after,
+nav.main li.link .secondary li body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
+body.custom-form-elements label.radio-as-toggle-button nav.main li.link .secondary li input+span.arrow-right:after,
+nav.main li.link .secondary li .arrow-left.button:before,
+nav.main li.link .secondary li body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
+body.custom-form-elements label.radio-as-toggle-button nav.main li.link .secondary li input+span.arrow-left:before,
+nav.main li.link .secondary li body.custom-form-elements select+i,
+body.custom-form-elements nav.main li.link .secondary li select+i,
+nav.main li.link .secondary li .custom-select-wrapper .custom-select-menu label:before,
+.custom-select-wrapper .custom-select-menu nav.main li.link .secondary li label:before,
+nav.main li.link .secondary li .custom-select-wrapper .custom-select-menu label:after,
+.custom-select-wrapper .custom-select-menu nav.main li.link .secondary li label:after,
+nav.main li.link .secondary li #back-to-top:before,
+nav.main li.link .secondary li .trainer-card-stamps-all a.arrow-right:after,
+.trainer-card-stamps-all nav.main li.link .secondary li a.arrow-right:after,
+nav.main li.link .secondary li .aside-leaderboard-table .footer_link a:after,
+.aside-leaderboard-table .footer_link nav.main li.link .secondary li a:after,
+nav.main li.link .fill {
     background-color: #1b53ba
 }
 
-nav.main li.game .secondary li {
+nav.main li.link .secondary li {
     border-bottom: 1px solid #0e2b61
 }
 
-nav.main li.game .tertiary li:first-child {
+nav.main li.link .tertiary li:first-child {
     border-top: 1px solid #0e2b61
 }
 
-nav.main li.game .icon,
-nav.main li.game .arrow-right.button:after,
-nav.main li.game body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
-body.custom-form-elements label.radio-as-toggle-button nav.main li.game input+span.arrow-right:after,
-nav.main li.game .arrow-left.button:before,
-nav.main li.game body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
-body.custom-form-elements label.radio-as-toggle-button nav.main li.game input+span.arrow-left:before,
-nav.main li.game body.custom-form-elements select+i,
-body.custom-form-elements nav.main li.game select+i,
-nav.main li.game .custom-select-wrapper .custom-select-menu label:before,
-.custom-select-wrapper .custom-select-menu nav.main li.game label:before,
-nav.main li.game .custom-select-wrapper .custom-select-menu label:after,
-.custom-select-wrapper .custom-select-menu nav.main li.game label:after,
-nav.main li.game #back-to-top:before,
-nav.main li.game .trainer-card-stamps-all a.arrow-right:after,
-.trainer-card-stamps-all nav.main li.game a.arrow-right:after,
-nav.main li.game .aside-leaderboard-table .footer_link a:after,
-.aside-leaderboard-table .footer_link nav.main li.game a:after {
+nav.main li.link .icon,
+nav.main li.link .arrow-right.button:after,
+nav.main li.link body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
+body.custom-form-elements label.radio-as-toggle-button nav.main li.link input+span.arrow-right:after,
+nav.main li.link .arrow-left.button:before,
+nav.main li.link body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
+body.custom-form-elements label.radio-as-toggle-button nav.main li.link input+span.arrow-left:before,
+nav.main li.link body.custom-form-elements select+i,
+body.custom-form-elements nav.main li.link select+i,
+nav.main li.link .custom-select-wrapper .custom-select-menu label:before,
+.custom-select-wrapper .custom-select-menu nav.main li.link label:before,
+nav.main li.link .custom-select-wrapper .custom-select-menu label:after,
+.custom-select-wrapper .custom-select-menu nav.main li.link label:after,
+nav.main li.link #back-to-top:before,
+nav.main li.link .trainer-card-stamps-all a.arrow-right:after,
+.trainer-card-stamps-all nav.main li.link a.arrow-right:after,
+nav.main li.link .aside-leaderboard-table .footer_link a:after,
+.aside-leaderboard-table .footer_link nav.main li.link a:after {
     color: #1b53ba
 }
 
-html.no-touch nav.main li.game:hover {
+html.no-touch nav.main li.link:hover {
     background-color: #1b53ba
 }
 
-html.no-touch nav.main li.game:hover .fill {
+html.no-touch nav.main li.link:hover .fill {
     height: 87px;
     opacity: 1
 }
 
-html.no-touch nav.main li.game:hover .icon,
-html.no-touch nav.main li.game:hover .arrow-right.button:after,
-html.no-touch nav.main li.game:hover body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
-body.custom-form-elements label.radio-as-toggle-button html.no-touch nav.main li.game:hover input+span.arrow-right:after,
-html.no-touch nav.main li.game:hover .arrow-left.button:before,
-html.no-touch nav.main li.game:hover body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
-body.custom-form-elements label.radio-as-toggle-button html.no-touch nav.main li.game:hover input+span.arrow-left:before,
-html.no-touch nav.main li.game:hover body.custom-form-elements select+i,
-body.custom-form-elements html.no-touch nav.main li.game:hover select+i,
-html.no-touch nav.main li.game:hover .custom-select-wrapper .custom-select-menu label:before,
-.custom-select-wrapper .custom-select-menu html.no-touch nav.main li.game:hover label:before,
-html.no-touch nav.main li.game:hover .custom-select-wrapper .custom-select-menu label:after,
-.custom-select-wrapper .custom-select-menu html.no-touch nav.main li.game:hover label:after,
-html.no-touch nav.main li.game:hover #back-to-top:before,
-html.no-touch nav.main li.game:hover .trainer-card-stamps-all a.arrow-right:after,
-.trainer-card-stamps-all html.no-touch nav.main li.game:hover a.arrow-right:after,
-html.no-touch nav.main li.game:hover .aside-leaderboard-table .footer_link a:after,
-.aside-leaderboard-table .footer_link html.no-touch nav.main li.game:hover a:after {
+html.no-touch nav.main li.link:hover .icon,
+html.no-touch nav.main li.link:hover .arrow-right.button:after,
+html.no-touch nav.main li.link:hover body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
+body.custom-form-elements label.radio-as-toggle-button html.no-touch nav.main li.link:hover input+span.arrow-right:after,
+html.no-touch nav.main li.link:hover .arrow-left.button:before,
+html.no-touch nav.main li.link:hover body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
+body.custom-form-elements label.radio-as-toggle-button html.no-touch nav.main li.link:hover input+span.arrow-left:before,
+html.no-touch nav.main li.link:hover body.custom-form-elements select+i,
+body.custom-form-elements html.no-touch nav.main li.link:hover select+i,
+html.no-touch nav.main li.link:hover .custom-select-wrapper .custom-select-menu label:before,
+.custom-select-wrapper .custom-select-menu html.no-touch nav.main li.link:hover label:before,
+html.no-touch nav.main li.link:hover .custom-select-wrapper .custom-select-menu label:after,
+.custom-select-wrapper .custom-select-menu html.no-touch nav.main li.link:hover label:after,
+html.no-touch nav.main li.link:hover #back-to-top:before,
+html.no-touch nav.main li.link:hover .trainer-card-stamps-all a.arrow-right:after,
+.trainer-card-stamps-all html.no-touch nav.main li.link:hover a.arrow-right:after,
+html.no-touch nav.main li.link:hover .aside-leaderboard-table .footer_link a:after,
+.aside-leaderboard-table .footer_link html.no-touch nav.main li.link:hover a:after {
     color: #fff
 }
 
-html.no-touch nav.main li.game:hover:after {
+html.no-touch nav.main li.link:hover:after {
     background-color: #1b53ba
 }
 
-nav.main li.game a.hover,
-nav.main li.game a.active {
+nav.main li.link a.hover,
+nav.main li.link a.active {
     background-color: #1b53ba
 }
 
-nav.main li.game a.hover:after,
-nav.main li.game a.active:after {
+nav.main li.link a.hover:after,
+nav.main li.link a.active:after {
     background-color: #1b53ba
 }
 
-nav.main li.game a.hover .fill,
-nav.main li.game a.active .fill {
+nav.main li.link a.hover .fill,
+nav.main li.link a.active .fill {
     height: 87px;
     opacity: 1
 }
 
-nav.main li.game a.hover .icon,
-nav.main li.game a.hover .arrow-right.button:after,
-nav.main li.game a.hover body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
-body.custom-form-elements label.radio-as-toggle-button nav.main li.game a.hover input+span.arrow-right:after,
-nav.main li.game a.hover .arrow-left.button:before,
-nav.main li.game a.hover body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
-body.custom-form-elements label.radio-as-toggle-button nav.main li.game a.hover input+span.arrow-left:before,
-nav.main li.game a.hover body.custom-form-elements select+i,
-body.custom-form-elements nav.main li.game a.hover select+i,
-nav.main li.game a.hover .custom-select-wrapper .custom-select-menu label:before,
-.custom-select-wrapper .custom-select-menu nav.main li.game a.hover label:before,
-nav.main li.game a.hover .custom-select-wrapper .custom-select-menu label:after,
-.custom-select-wrapper .custom-select-menu nav.main li.game a.hover label:after,
-nav.main li.game a.hover #back-to-top:before,
-nav.main li.game a.hover .trainer-card-stamps-all a.arrow-right:after,
-.trainer-card-stamps-all nav.main li.game a.hover a.arrow-right:after,
-nav.main li.game a.hover .aside-leaderboard-table .footer_link a:after,
-.aside-leaderboard-table .footer_link nav.main li.game a.hover a:after,
-nav.main li.game a.active .icon,
-nav.main li.game a.active .arrow-right.button:after,
-nav.main li.game a.active body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
-body.custom-form-elements label.radio-as-toggle-button nav.main li.game a.active input+span.arrow-right:after,
-nav.main li.game a.active .arrow-left.button:before,
-nav.main li.game a.active body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
-body.custom-form-elements label.radio-as-toggle-button nav.main li.game a.active input+span.arrow-left:before,
-nav.main li.game a.active body.custom-form-elements select+i,
-body.custom-form-elements nav.main li.game a.active select+i,
-nav.main li.game a.active .custom-select-wrapper .custom-select-menu label:before,
-.custom-select-wrapper .custom-select-menu nav.main li.game a.active label:before,
-nav.main li.game a.active .custom-select-wrapper .custom-select-menu label:after,
-.custom-select-wrapper .custom-select-menu nav.main li.game a.active label:after,
-nav.main li.game a.active #back-to-top:before,
-nav.main li.game a.active .trainer-card-stamps-all a.arrow-right:after,
-.trainer-card-stamps-all nav.main li.game a.active a.arrow-right:after,
-nav.main li.game a.active .aside-leaderboard-table .footer_link a:after,
-.aside-leaderboard-table .footer_link nav.main li.game a.active a:after {
+nav.main li.link a.hover .icon,
+nav.main li.link a.hover .arrow-right.button:after,
+nav.main li.link a.hover body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
+body.custom-form-elements label.radio-as-toggle-button nav.main li.link a.hover input+span.arrow-right:after,
+nav.main li.link a.hover .arrow-left.button:before,
+nav.main li.link a.hover body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
+body.custom-form-elements label.radio-as-toggle-button nav.main li.link a.hover input+span.arrow-left:before,
+nav.main li.link a.hover body.custom-form-elements select+i,
+body.custom-form-elements nav.main li.link a.hover select+i,
+nav.main li.link a.hover .custom-select-wrapper .custom-select-menu label:before,
+.custom-select-wrapper .custom-select-menu nav.main li.link a.hover label:before,
+nav.main li.link a.hover .custom-select-wrapper .custom-select-menu label:after,
+.custom-select-wrapper .custom-select-menu nav.main li.link a.hover label:after,
+nav.main li.link a.hover #back-to-top:before,
+nav.main li.link a.hover .trainer-card-stamps-all a.arrow-right:after,
+.trainer-card-stamps-all nav.main li.link a.hover a.arrow-right:after,
+nav.main li.link a.hover .aside-leaderboard-table .footer_link a:after,
+.aside-leaderboard-table .footer_link nav.main li.link a.hover a:after,
+nav.main li.link a.active .icon,
+nav.main li.link a.active .arrow-right.button:after,
+nav.main li.link a.active body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
+body.custom-form-elements label.radio-as-toggle-button nav.main li.link a.active input+span.arrow-right:after,
+nav.main li.link a.active .arrow-left.button:before,
+nav.main li.link a.active body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
+body.custom-form-elements label.radio-as-toggle-button nav.main li.link a.active input+span.arrow-left:before,
+nav.main li.link a.active body.custom-form-elements select+i,
+body.custom-form-elements nav.main li.link a.active select+i,
+nav.main li.link a.active .custom-select-wrapper .custom-select-menu label:before,
+.custom-select-wrapper .custom-select-menu nav.main li.link a.active label:before,
+nav.main li.link a.active .custom-select-wrapper .custom-select-menu label:after,
+.custom-select-wrapper .custom-select-menu nav.main li.link a.active label:after,
+nav.main li.link a.active #back-to-top:before,
+nav.main li.link a.active .trainer-card-stamps-all a.arrow-right:after,
+.trainer-card-stamps-all nav.main li.link a.active a.arrow-right:after,
+nav.main li.link a.active .aside-leaderboard-table .footer_link a:after,
+.aside-leaderboard-table .footer_link nav.main li.link a.active a:after {
     color: #fff
 }
 
-html.no-touch.csstransitions nav.main li.game .fill {
+html.no-touch.csstransitions nav.main li.link .fill {
     -webkit-transition: height 0.2s 0 ease;
     -ms-transition: height 0.2s 0 ease;
     -moz-transition: height 0.2s 0 ease;
@@ -12408,24 +12408,24 @@ html.no-touch.csstransitions nav.main li.game .fill {
     transition: height 0.2s 0 ease
 }
 
-html.no-touch.csstransitions nav.main li.game .icon,
-html.no-touch.csstransitions nav.main li.game .arrow-right.button:after,
-html.no-touch.csstransitions nav.main li.game body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
-body.custom-form-elements label.radio-as-toggle-button html.no-touch.csstransitions nav.main li.game input+span.arrow-right:after,
-html.no-touch.csstransitions nav.main li.game .arrow-left.button:before,
-html.no-touch.csstransitions nav.main li.game body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
-body.custom-form-elements label.radio-as-toggle-button html.no-touch.csstransitions nav.main li.game input+span.arrow-left:before,
-html.no-touch.csstransitions nav.main li.game body.custom-form-elements select+i,
-body.custom-form-elements html.no-touch.csstransitions nav.main li.game select+i,
-html.no-touch.csstransitions nav.main li.game .custom-select-wrapper .custom-select-menu label:before,
-.custom-select-wrapper .custom-select-menu html.no-touch.csstransitions nav.main li.game label:before,
-html.no-touch.csstransitions nav.main li.game .custom-select-wrapper .custom-select-menu label:after,
-.custom-select-wrapper .custom-select-menu html.no-touch.csstransitions nav.main li.game label:after,
-html.no-touch.csstransitions nav.main li.game #back-to-top:before,
-html.no-touch.csstransitions nav.main li.game .trainer-card-stamps-all a.arrow-right:after,
-.trainer-card-stamps-all html.no-touch.csstransitions nav.main li.game a.arrow-right:after,
-html.no-touch.csstransitions nav.main li.game .aside-leaderboard-table .footer_link a:after,
-.aside-leaderboard-table .footer_link html.no-touch.csstransitions nav.main li.game a:after {
+html.no-touch.csstransitions nav.main li.link .icon,
+html.no-touch.csstransitions nav.main li.link .arrow-right.button:after,
+html.no-touch.csstransitions nav.main li.link body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
+body.custom-form-elements label.radio-as-toggle-button html.no-touch.csstransitions nav.main li.link input+span.arrow-right:after,
+html.no-touch.csstransitions nav.main li.link .arrow-left.button:before,
+html.no-touch.csstransitions nav.main li.link body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
+body.custom-form-elements label.radio-as-toggle-button html.no-touch.csstransitions nav.main li.link input+span.arrow-left:before,
+html.no-touch.csstransitions nav.main li.link body.custom-form-elements select+i,
+body.custom-form-elements html.no-touch.csstransitions nav.main li.link select+i,
+html.no-touch.csstransitions nav.main li.link .custom-select-wrapper .custom-select-menu label:before,
+.custom-select-wrapper .custom-select-menu html.no-touch.csstransitions nav.main li.link label:before,
+html.no-touch.csstransitions nav.main li.link .custom-select-wrapper .custom-select-menu label:after,
+.custom-select-wrapper .custom-select-menu html.no-touch.csstransitions nav.main li.link label:after,
+html.no-touch.csstransitions nav.main li.link #back-to-top:before,
+html.no-touch.csstransitions nav.main li.link .trainer-card-stamps-all a.arrow-right:after,
+.trainer-card-stamps-all html.no-touch.csstransitions nav.main li.link a.arrow-right:after,
+html.no-touch.csstransitions nav.main li.link .aside-leaderboard-table .footer_link a:after,
+.aside-leaderboard-table .footer_link html.no-touch.csstransitions nav.main li.link a:after {
     -webkit-transition: color 0.1s 0 ease;
     -ms-transition: color 0.1s 0 ease;
     -moz-transition: color 0.1s 0 ease;
@@ -12433,7 +12433,7 @@ html.no-touch.csstransitions nav.main li.game .aside-leaderboard-table .footer_l
     transition: color 0.1s 0 ease
 }
 
-html.no-touch.csstransitions nav.main li.game .title {
+html.no-touch.csstransitions nav.main li.link .title {
     -webkit-transition: opacity 0 0;
     -ms-transition: opacity 0 0;
     -moz-transition: opacity 0 0;
@@ -12441,7 +12441,7 @@ html.no-touch.csstransitions nav.main li.game .title {
     transition: opacity 0 0
 }
 
-html.no-touch.csstransitions nav.main li.game:after {
+html.no-touch.csstransitions nav.main li.link:after {
     -webkit-transition: background-color 0 0.1s;
     -ms-transition: background-color 0 0.1s;
     -moz-transition: background-color 0 0.1s;
@@ -12449,7 +12449,7 @@ html.no-touch.csstransitions nav.main li.game:after {
     transition: background-color 0 0.1s
 }
 
-html.no-touch.csstransitions nav.main li.game:hover:after {
+html.no-touch.csstransitions nav.main li.link:hover:after {
     -webkit-transition: background-color 0 0;
     -ms-transition: background-color 0 0;
     -moz-transition: background-color 0 0;
@@ -12457,7 +12457,7 @@ html.no-touch.csstransitions nav.main li.game:hover:after {
     transition: background-color 0 0
 }
 
-html.no-touch.csstransitions nav.main li.game:hover .title {
+html.no-touch.csstransitions nav.main li.link:hover .title {
     -webkit-transition: opacity 0.2s 0.1s ease;
     -ms-transition: opacity 0.2s 0.1s ease;
     -moz-transition: opacity 0.2s 0.1s ease;
@@ -12465,166 +12465,166 @@ html.no-touch.csstransitions nav.main li.game:hover .title {
     transition: opacity 0.2s 0.1s ease
 }
 
-nav.main li.game.last-item:after {
+nav.main li.link.last-item:after {
     border-radius: 0 0 8px 0
 }
 
-html.nintendo nav.main li.game.last-item:after {
+html.nintendo nav.main li.link.last-item:after {
     border-radius: 0
 }
 
-nav.main li.attend:after {
+nav.main li.bio:after {
     background-color: #4dad5b;
     transition: background-color 0.25s, height 0.25s;
     border-radius: 0 0 8px 0
 }
 
-html.nintendo nav.main li.attend:after {
+html.nintendo nav.main li.bio:after {
     border-radius: 0
 }
 
-nav.main li.attend .secondary li,
-nav.main li.attend .secondary li .icon,
-nav.main li.attend .secondary li .arrow-right.button:after,
-nav.main li.attend .secondary li body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
-body.custom-form-elements label.radio-as-toggle-button nav.main li.attend .secondary li input+span.arrow-right:after,
-nav.main li.attend .secondary li .arrow-left.button:before,
-nav.main li.attend .secondary li body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
-body.custom-form-elements label.radio-as-toggle-button nav.main li.attend .secondary li input+span.arrow-left:before,
-nav.main li.attend .secondary li body.custom-form-elements select+i,
-body.custom-form-elements nav.main li.attend .secondary li select+i,
-nav.main li.attend .secondary li .custom-select-wrapper .custom-select-menu label:before,
-.custom-select-wrapper .custom-select-menu nav.main li.attend .secondary li label:before,
-nav.main li.attend .secondary li .custom-select-wrapper .custom-select-menu label:after,
-.custom-select-wrapper .custom-select-menu nav.main li.attend .secondary li label:after,
-nav.main li.attend .secondary li #back-to-top:before,
-nav.main li.attend .secondary li .trainer-card-stamps-all a.arrow-right:after,
-.trainer-card-stamps-all nav.main li.attend .secondary li a.arrow-right:after,
-nav.main li.attend .secondary li .aside-leaderboard-table .footer_link a:after,
-.aside-leaderboard-table .footer_link nav.main li.attend .secondary li a:after,
-nav.main li.attend .fill {
+nav.main li.bio .secondary li,
+nav.main li.bio .secondary li .icon,
+nav.main li.bio .secondary li .arrow-right.button:after,
+nav.main li.bio .secondary li body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
+body.custom-form-elements label.radio-as-toggle-button nav.main li.bio .secondary li input+span.arrow-right:after,
+nav.main li.bio .secondary li .arrow-left.button:before,
+nav.main li.bio .secondary li body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
+body.custom-form-elements label.radio-as-toggle-button nav.main li.bio .secondary li input+span.arrow-left:before,
+nav.main li.bio .secondary li body.custom-form-elements select+i,
+body.custom-form-elements nav.main li.bio .secondary li select+i,
+nav.main li.bio .secondary li .custom-select-wrapper .custom-select-menu label:before,
+.custom-select-wrapper .custom-select-menu nav.main li.bio .secondary li label:before,
+nav.main li.bio .secondary li .custom-select-wrapper .custom-select-menu label:after,
+.custom-select-wrapper .custom-select-menu nav.main li.bio .secondary li label:after,
+nav.main li.bio .secondary li #back-to-top:before,
+nav.main li.bio .secondary li .trainer-card-stamps-all a.arrow-right:after,
+.trainer-card-stamps-all nav.main li.bio .secondary li a.arrow-right:after,
+nav.main li.bio .secondary li .aside-leaderboard-table .footer_link a:after,
+.aside-leaderboard-table .footer_link nav.main li.bio .secondary li a:after,
+nav.main li.bio .fill {
     background-color: #4dad5b
 }
 
-nav.main li.attend .secondary li {
+nav.main li.bio .secondary li {
     border-bottom: 1px solid #2e6636
 }
 
-nav.main li.attend .tertiary li:first-child {
+nav.main li.bio .tertiary li:first-child {
     border-top: 1px solid #2e6636
 }
 
-nav.main li.attend .icon,
-nav.main li.attend .arrow-right.button:after,
-nav.main li.attend body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
-body.custom-form-elements label.radio-as-toggle-button nav.main li.attend input+span.arrow-right:after,
-nav.main li.attend .arrow-left.button:before,
-nav.main li.attend body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
-body.custom-form-elements label.radio-as-toggle-button nav.main li.attend input+span.arrow-left:before,
-nav.main li.attend body.custom-form-elements select+i,
-body.custom-form-elements nav.main li.attend select+i,
-nav.main li.attend .custom-select-wrapper .custom-select-menu label:before,
-.custom-select-wrapper .custom-select-menu nav.main li.attend label:before,
-nav.main li.attend .custom-select-wrapper .custom-select-menu label:after,
-.custom-select-wrapper .custom-select-menu nav.main li.attend label:after,
-nav.main li.attend #back-to-top:before,
-nav.main li.attend .trainer-card-stamps-all a.arrow-right:after,
-.trainer-card-stamps-all nav.main li.attend a.arrow-right:after,
-nav.main li.attend .aside-leaderboard-table .footer_link a:after,
-.aside-leaderboard-table .footer_link nav.main li.attend a:after {
+nav.main li.bio .icon,
+nav.main li.bio .arrow-right.button:after,
+nav.main li.bio body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
+body.custom-form-elements label.radio-as-toggle-button nav.main li.bio input+span.arrow-right:after,
+nav.main li.bio .arrow-left.button:before,
+nav.main li.bio body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
+body.custom-form-elements label.radio-as-toggle-button nav.main li.bio input+span.arrow-left:before,
+nav.main li.bio body.custom-form-elements select+i,
+body.custom-form-elements nav.main li.bio select+i,
+nav.main li.bio .custom-select-wrapper .custom-select-menu label:before,
+.custom-select-wrapper .custom-select-menu nav.main li.bio label:before,
+nav.main li.bio .custom-select-wrapper .custom-select-menu label:after,
+.custom-select-wrapper .custom-select-menu nav.main li.bio label:after,
+nav.main li.bio #back-to-top:before,
+nav.main li.bio .trainer-card-stamps-all a.arrow-right:after,
+.trainer-card-stamps-all nav.main li.bio a.arrow-right:after,
+nav.main li.bio .aside-leaderboard-table .footer_link a:after,
+.aside-leaderboard-table .footer_link nav.main li.bio a:after {
     color: #4dad5b
 }
 
-html.no-touch nav.main li.attend:hover {
+html.no-touch nav.main li.bio:hover {
     background-color: #4dad5b
 }
 
-html.no-touch nav.main li.attend:hover .fill {
+html.no-touch nav.main li.bio:hover .fill {
     height: 87px;
     opacity: 1
 }
 
-html.no-touch nav.main li.attend:hover .icon,
-html.no-touch nav.main li.attend:hover .arrow-right.button:after,
-html.no-touch nav.main li.attend:hover body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
-body.custom-form-elements label.radio-as-toggle-button html.no-touch nav.main li.attend:hover input+span.arrow-right:after,
-html.no-touch nav.main li.attend:hover .arrow-left.button:before,
-html.no-touch nav.main li.attend:hover body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
-body.custom-form-elements label.radio-as-toggle-button html.no-touch nav.main li.attend:hover input+span.arrow-left:before,
-html.no-touch nav.main li.attend:hover body.custom-form-elements select+i,
-body.custom-form-elements html.no-touch nav.main li.attend:hover select+i,
-html.no-touch nav.main li.attend:hover .custom-select-wrapper .custom-select-menu label:before,
-.custom-select-wrapper .custom-select-menu html.no-touch nav.main li.attend:hover label:before,
-html.no-touch nav.main li.attend:hover .custom-select-wrapper .custom-select-menu label:after,
-.custom-select-wrapper .custom-select-menu html.no-touch nav.main li.attend:hover label:after,
-html.no-touch nav.main li.attend:hover #back-to-top:before,
-html.no-touch nav.main li.attend:hover .trainer-card-stamps-all a.arrow-right:after,
-.trainer-card-stamps-all html.no-touch nav.main li.attend:hover a.arrow-right:after,
-html.no-touch nav.main li.attend:hover .aside-leaderboard-table .footer_link a:after,
-.aside-leaderboard-table .footer_link html.no-touch nav.main li.attend:hover a:after {
+html.no-touch nav.main li.bio:hover .icon,
+html.no-touch nav.main li.bio:hover .arrow-right.button:after,
+html.no-touch nav.main li.bio:hover body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
+body.custom-form-elements label.radio-as-toggle-button html.no-touch nav.main li.bio:hover input+span.arrow-right:after,
+html.no-touch nav.main li.bio:hover .arrow-left.button:before,
+html.no-touch nav.main li.bio:hover body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
+body.custom-form-elements label.radio-as-toggle-button html.no-touch nav.main li.bio:hover input+span.arrow-left:before,
+html.no-touch nav.main li.bio:hover body.custom-form-elements select+i,
+body.custom-form-elements html.no-touch nav.main li.bio:hover select+i,
+html.no-touch nav.main li.bio:hover .custom-select-wrapper .custom-select-menu label:before,
+.custom-select-wrapper .custom-select-menu html.no-touch nav.main li.bio:hover label:before,
+html.no-touch nav.main li.bio:hover .custom-select-wrapper .custom-select-menu label:after,
+.custom-select-wrapper .custom-select-menu html.no-touch nav.main li.bio:hover label:after,
+html.no-touch nav.main li.bio:hover #back-to-top:before,
+html.no-touch nav.main li.bio:hover .trainer-card-stamps-all a.arrow-right:after,
+.trainer-card-stamps-all html.no-touch nav.main li.bio:hover a.arrow-right:after,
+html.no-touch nav.main li.bio:hover .aside-leaderboard-table .footer_link a:after,
+.aside-leaderboard-table .footer_link html.no-touch nav.main li.bio:hover a:after {
     color: #fff
 }
 
-html.no-touch nav.main li.attend:hover:after {
+html.no-touch nav.main li.bio:hover:after {
     background-color: #4dad5b
 }
 
-nav.main li.attend a.hover,
-nav.main li.attend a.active {
+nav.main li.bio a.hover,
+nav.main li.bio a.active {
     background-color: #4dad5b
 }
 
-nav.main li.attend a.hover:after,
-nav.main li.attend a.active:after {
+nav.main li.bio a.hover:after,
+nav.main li.bio a.active:after {
     background-color: #4dad5b
 }
 
-nav.main li.attend a.hover .fill,
-nav.main li.attend a.active .fill {
+nav.main li.bio a.hover .fill,
+nav.main li.bio a.active .fill {
     height: 87px;
     opacity: 1
 }
 
-nav.main li.attend a.hover .icon,
-nav.main li.attend a.hover .arrow-right.button:after,
-nav.main li.attend a.hover body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
-body.custom-form-elements label.radio-as-toggle-button nav.main li.attend a.hover input+span.arrow-right:after,
-nav.main li.attend a.hover .arrow-left.button:before,
-nav.main li.attend a.hover body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
-body.custom-form-elements label.radio-as-toggle-button nav.main li.attend a.hover input+span.arrow-left:before,
-nav.main li.attend a.hover body.custom-form-elements select+i,
-body.custom-form-elements nav.main li.attend a.hover select+i,
-nav.main li.attend a.hover .custom-select-wrapper .custom-select-menu label:before,
-.custom-select-wrapper .custom-select-menu nav.main li.attend a.hover label:before,
-nav.main li.attend a.hover .custom-select-wrapper .custom-select-menu label:after,
-.custom-select-wrapper .custom-select-menu nav.main li.attend a.hover label:after,
-nav.main li.attend a.hover #back-to-top:before,
-nav.main li.attend a.hover .trainer-card-stamps-all a.arrow-right:after,
-.trainer-card-stamps-all nav.main li.attend a.hover a.arrow-right:after,
-nav.main li.attend a.hover .aside-leaderboard-table .footer_link a:after,
-.aside-leaderboard-table .footer_link nav.main li.attend a.hover a:after,
-nav.main li.attend a.active .icon,
-nav.main li.attend a.active .arrow-right.button:after,
-nav.main li.attend a.active body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
-body.custom-form-elements label.radio-as-toggle-button nav.main li.attend a.active input+span.arrow-right:after,
-nav.main li.attend a.active .arrow-left.button:before,
-nav.main li.attend a.active body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
-body.custom-form-elements label.radio-as-toggle-button nav.main li.attend a.active input+span.arrow-left:before,
-nav.main li.attend a.active body.custom-form-elements select+i,
-body.custom-form-elements nav.main li.attend a.active select+i,
-nav.main li.attend a.active .custom-select-wrapper .custom-select-menu label:before,
-.custom-select-wrapper .custom-select-menu nav.main li.attend a.active label:before,
-nav.main li.attend a.active .custom-select-wrapper .custom-select-menu label:after,
-.custom-select-wrapper .custom-select-menu nav.main li.attend a.active label:after,
-nav.main li.attend a.active #back-to-top:before,
-nav.main li.attend a.active .trainer-card-stamps-all a.arrow-right:after,
-.trainer-card-stamps-all nav.main li.attend a.active a.arrow-right:after,
-nav.main li.attend a.active .aside-leaderboard-table .footer_link a:after,
-.aside-leaderboard-table .footer_link nav.main li.attend a.active a:after {
+nav.main li.bio a.hover .icon,
+nav.main li.bio a.hover .arrow-right.button:after,
+nav.main li.bio a.hover body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
+body.custom-form-elements label.radio-as-toggle-button nav.main li.bio a.hover input+span.arrow-right:after,
+nav.main li.bio a.hover .arrow-left.button:before,
+nav.main li.bio a.hover body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
+body.custom-form-elements label.radio-as-toggle-button nav.main li.bio a.hover input+span.arrow-left:before,
+nav.main li.bio a.hover body.custom-form-elements select+i,
+body.custom-form-elements nav.main li.bio a.hover select+i,
+nav.main li.bio a.hover .custom-select-wrapper .custom-select-menu label:before,
+.custom-select-wrapper .custom-select-menu nav.main li.bio a.hover label:before,
+nav.main li.bio a.hover .custom-select-wrapper .custom-select-menu label:after,
+.custom-select-wrapper .custom-select-menu nav.main li.bio a.hover label:after,
+nav.main li.bio a.hover #back-to-top:before,
+nav.main li.bio a.hover .trainer-card-stamps-all a.arrow-right:after,
+.trainer-card-stamps-all nav.main li.bio a.hover a.arrow-right:after,
+nav.main li.bio a.hover .aside-leaderboard-table .footer_link a:after,
+.aside-leaderboard-table .footer_link nav.main li.bio a.hover a:after,
+nav.main li.bio a.active .icon,
+nav.main li.bio a.active .arrow-right.button:after,
+nav.main li.bio a.active body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
+body.custom-form-elements label.radio-as-toggle-button nav.main li.bio a.active input+span.arrow-right:after,
+nav.main li.bio a.active .arrow-left.button:before,
+nav.main li.bio a.active body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
+body.custom-form-elements label.radio-as-toggle-button nav.main li.bio a.active input+span.arrow-left:before,
+nav.main li.bio a.active body.custom-form-elements select+i,
+body.custom-form-elements nav.main li.bio a.active select+i,
+nav.main li.bio a.active .custom-select-wrapper .custom-select-menu label:before,
+.custom-select-wrapper .custom-select-menu nav.main li.bio a.active label:before,
+nav.main li.bio a.active .custom-select-wrapper .custom-select-menu label:after,
+.custom-select-wrapper .custom-select-menu nav.main li.bio a.active label:after,
+nav.main li.bio a.active #back-to-top:before,
+nav.main li.bio a.active .trainer-card-stamps-all a.arrow-right:after,
+.trainer-card-stamps-all nav.main li.bio a.active a.arrow-right:after,
+nav.main li.bio a.active .aside-leaderboard-table .footer_link a:after,
+.aside-leaderboard-table .footer_link nav.main li.bio a.active a:after {
     color: #fff
 }
 
-html.no-touch.csstransitions nav.main li.attend .fill {
+html.no-touch.csstransitions nav.main li.bio .fill {
     -webkit-transition: height 0.2s 0 ease;
     -ms-transition: height 0.2s 0 ease;
     -moz-transition: height 0.2s 0 ease;
@@ -12632,24 +12632,24 @@ html.no-touch.csstransitions nav.main li.attend .fill {
     transition: height 0.2s 0 ease
 }
 
-html.no-touch.csstransitions nav.main li.attend .icon,
-html.no-touch.csstransitions nav.main li.attend .arrow-right.button:after,
-html.no-touch.csstransitions nav.main li.attend body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
-body.custom-form-elements label.radio-as-toggle-button html.no-touch.csstransitions nav.main li.attend input+span.arrow-right:after,
-html.no-touch.csstransitions nav.main li.attend .arrow-left.button:before,
-html.no-touch.csstransitions nav.main li.attend body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
-body.custom-form-elements label.radio-as-toggle-button html.no-touch.csstransitions nav.main li.attend input+span.arrow-left:before,
-html.no-touch.csstransitions nav.main li.attend body.custom-form-elements select+i,
-body.custom-form-elements html.no-touch.csstransitions nav.main li.attend select+i,
-html.no-touch.csstransitions nav.main li.attend .custom-select-wrapper .custom-select-menu label:before,
-.custom-select-wrapper .custom-select-menu html.no-touch.csstransitions nav.main li.attend label:before,
-html.no-touch.csstransitions nav.main li.attend .custom-select-wrapper .custom-select-menu label:after,
-.custom-select-wrapper .custom-select-menu html.no-touch.csstransitions nav.main li.attend label:after,
-html.no-touch.csstransitions nav.main li.attend #back-to-top:before,
-html.no-touch.csstransitions nav.main li.attend .trainer-card-stamps-all a.arrow-right:after,
-.trainer-card-stamps-all html.no-touch.csstransitions nav.main li.attend a.arrow-right:after,
-html.no-touch.csstransitions nav.main li.attend .aside-leaderboard-table .footer_link a:after,
-.aside-leaderboard-table .footer_link html.no-touch.csstransitions nav.main li.attend a:after {
+html.no-touch.csstransitions nav.main li.bio .icon,
+html.no-touch.csstransitions nav.main li.bio .arrow-right.button:after,
+html.no-touch.csstransitions nav.main li.bio body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:after,
+body.custom-form-elements label.radio-as-toggle-button html.no-touch.csstransitions nav.main li.bio input+span.arrow-right:after,
+html.no-touch.csstransitions nav.main li.bio .arrow-left.button:before,
+html.no-touch.csstransitions nav.main li.bio body.custom-form-elements label.radio-as-toggle-button input+span.arrow-left:before,
+body.custom-form-elements label.radio-as-toggle-button html.no-touch.csstransitions nav.main li.bio input+span.arrow-left:before,
+html.no-touch.csstransitions nav.main li.bio body.custom-form-elements select+i,
+body.custom-form-elements html.no-touch.csstransitions nav.main li.bio select+i,
+html.no-touch.csstransitions nav.main li.bio .custom-select-wrapper .custom-select-menu label:before,
+.custom-select-wrapper .custom-select-menu html.no-touch.csstransitions nav.main li.bio label:before,
+html.no-touch.csstransitions nav.main li.bio .custom-select-wrapper .custom-select-menu label:after,
+.custom-select-wrapper .custom-select-menu html.no-touch.csstransitions nav.main li.bio label:after,
+html.no-touch.csstransitions nav.main li.bio #back-to-top:before,
+html.no-touch.csstransitions nav.main li.bio .trainer-card-stamps-all a.arrow-right:after,
+.trainer-card-stamps-all html.no-touch.csstransitions nav.main li.bio a.arrow-right:after,
+html.no-touch.csstransitions nav.main li.bio .aside-leaderboard-table .footer_link a:after,
+.aside-leaderboard-table .footer_link html.no-touch.csstransitions nav.main li.bio a:after {
     -webkit-transition: color 0.1s 0 ease;
     -ms-transition: color 0.1s 0 ease;
     -moz-transition: color 0.1s 0 ease;
@@ -12657,7 +12657,7 @@ html.no-touch.csstransitions nav.main li.attend .aside-leaderboard-table .footer
     transition: color 0.1s 0 ease
 }
 
-html.no-touch.csstransitions nav.main li.attend .title {
+html.no-touch.csstransitions nav.main li.bio .title {
     -webkit-transition: opacity 0 0;
     -ms-transition: opacity 0 0;
     -moz-transition: opacity 0 0;
@@ -12665,7 +12665,7 @@ html.no-touch.csstransitions nav.main li.attend .title {
     transition: opacity 0 0
 }
 
-html.no-touch.csstransitions nav.main li.attend:after {
+html.no-touch.csstransitions nav.main li.bio:after {
     -webkit-transition: background-color 0 0.1s;
     -ms-transition: background-color 0 0.1s;
     -moz-transition: background-color 0 0.1s;
@@ -12673,7 +12673,7 @@ html.no-touch.csstransitions nav.main li.attend:after {
     transition: background-color 0 0.1s
 }
 
-html.no-touch.csstransitions nav.main li.attend:hover:after {
+html.no-touch.csstransitions nav.main li.bio:hover:after {
     -webkit-transition: background-color 0 0;
     -ms-transition: background-color 0 0;
     -moz-transition: background-color 0 0;
@@ -12681,7 +12681,7 @@ html.no-touch.csstransitions nav.main li.attend:hover:after {
     transition: background-color 0 0
 }
 
-html.no-touch.csstransitions nav.main li.attend:hover .title {
+html.no-touch.csstransitions nav.main li.bio:hover .title {
     -webkit-transition: opacity 0.2s 0.1s ease;
     -ms-transition: opacity 0.2s 0.1s ease;
     -moz-transition: opacity 0.2s 0.1s ease;
@@ -12689,11 +12689,11 @@ html.no-touch.csstransitions nav.main li.attend:hover .title {
     transition: opacity 0.2s 0.1s ease
 }
 
-nav.main li.attend.last-item:after {
+nav.main li.bio.last-item:after {
     border-radius: 0 0 8px 0
 }
 
-html.nintendo nav.main li.attend.last-item:after {
+html.nintendo nav.main li.bio.last-item:after {
     border-radius: 0
 }
 

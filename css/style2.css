@@ -288,7 +288,10 @@ p.infopost span.date {
 	color:#fff;
 	text-decoration:none;
 	text-align:center;
-	background:#df4b49;
+	background:#4CAF50;
+}
+.post_content a.rm:hover {
+	background: #3d843f;
 }
 .content p.pages {
 	margin:0;
@@ -311,7 +314,7 @@ p.infopost span.date {
 }
 .content p.pages span, .content p.pages a:hover {
 	color:#fff;
-	background:#e15452;
+	background:#3C8EC6;
 }
 .content p.pages a {
 	color:#7e7e7e;
