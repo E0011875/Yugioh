@@ -431,47 +431,58 @@ body.custom-form-elements label.radio-as-toggle-button input+span.arrow-right:af
     content: "\f137"
 }
 .icon_home:before {
-    content: url("../images/home_active.png");
+    content: url("../images/home.png");
 }
-.active .icon_home:before {
+.active .icon_home:before,
+.icon_home:hover:before {
     content: url("../images/home_active.png");
 }
 .icon_latest:before {
     content: url("../images/latest.png");
 }
-.active .icon_latest:before {
+.active .icon_latest:before,
+.icon_latest:hover:before {
     content: url("../images/latest_active.png");
 }
 .icon_forum:before {
     content: url("../images/forum.png");
 }
-.active .icon_forum:before {
+.active .icon_forum:before,
+.icon_forum:hover:before {
     content: url("../images/forum_active.png");
 }
 .icon_puzzle:before {
     content: url("../images/puzzle.png");
 }
-.active .icon_puzzle:before {
+.active .icon_puzzle:before,
+.icon_puzzle:hover:before {
     content: url("../images/puzzle_active.png");
 }
 .icon_strategy:before {
     content: url("../images/strategy.png");
 }
-.active .icon_strategy:before {
+.active .icon_strategy:before,
+.icon_strategy:hover:before {
     content: url("../images/strategy_active.png");
 }
+
 .icon_link:before {
     content: url("../images/link.png");
 }
-.active .icon_link:before {
+.active .icon_link:before,
+.icon_link:hover:before {
     content: url("../images/link_active.png");
 }
 .icon_bio:before {
     content: url("../images/bio.png");
 }
-.active .icon_bio:before {
+.active .icon_bio:before, .icon_bio:hover:before {
     content: url("../images/bio_active.png");
 }
+
+
+
+
 
 
 @-webkit-keyframes bounce {
@@ -11034,9 +11045,9 @@ nav.main .content-wrapper ul ul li {
     margin: 0;
     overflow: visible;
     position: relative;
-    width: 14.28571%
+    width: 14.28571%;
+    background-color: #313131
 }
-
 nav.main .content-wrapper>ul li:before,
 nav.main .content-wrapper ul ul li:before {
     content: ' ';
@@ -11201,6 +11212,7 @@ nav.main li.home .aside-leaderboard-table .footer_link a:after,
     color: #919191
 }
 
+html.no-touch nav.main li.home.active,
 html.no-touch nav.main li.home:hover {
     background-color: #919191
 }
@@ -11420,10 +11432,10 @@ nav.main li.latest .aside-leaderboard-table .footer_link a:after,
     color: #E3350D
 }
 
+html.no-touch nav.main li.latest.active,
 html.no-touch nav.main li.latest:hover {
     background-color: #E3350D
 }
-
 html.no-touch nav.main li.latest:hover .fill {
     height: 87px;
     opacity: 1
@@ -11639,6 +11651,7 @@ nav.main li.forum .aside-leaderboard-table .footer_link a:after,
     color: #ee6b2f
 }
 
+html.no-touch nav.main li.forum.active,
 html.no-touch nav.main li.forum:hover {
     background-color: #ee6b2f
 }
@@ -11857,7 +11870,7 @@ nav.main li.database .aside-leaderboard-table .footer_link a:after,
 .aside-leaderboard-table .footer_link nav.main li.database a:after {
     color: #e6bc2f
 }
-
+html.no-touch nav.main li.database.active,
 html.no-touch nav.main li.database:hover {
     background-color: #e6bc2f
 }
@@ -12076,7 +12089,7 @@ nav.main li.strategy .aside-leaderboard-table .footer_link a:after,
 .aside-leaderboard-table .footer_link nav.main li.strategy a:after {
     color: #30a7d7
 }
-
+html.no-touch nav.main li.strategy.active,
 html.no-touch nav.main li.strategy:hover {
     background-color: #30a7d7
 }
@@ -12295,7 +12308,7 @@ nav.main li.link .aside-leaderboard-table .footer_link a:after,
 .aside-leaderboard-table .footer_link nav.main li.link a:after {
     color: #1b53ba
 }
-
+html.no-touch nav.main li.link.active,
 html.no-touch nav.main li.link:hover {
     background-color: #1b53ba
 }
@@ -12519,7 +12532,7 @@ nav.main li.bio .aside-leaderboard-table .footer_link a:after,
 .aside-leaderboard-table .footer_link nav.main li.bio a:after {
     color: #4dad5b
 }
-
+html.no-touch nav.main li.bio.active,
 html.no-touch nav.main li.bio:hover {
     background-color: #4dad5b
 }
